@@ -17,11 +17,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NetworkManager.png"
   },
   {
-   "title": "JabRef",
-   "description": "reference management software",
-   "year": "2003",
-   "url": "https://www.jabref.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JabRef-5.9.png"
+   "title": "GEGL",
+   "description": "image processing programming library",
+   "year": "2000",
+   "url": "https://www.gegl.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%201.4%20--%202001%2C%2004.png"
   },
   {
    "title": "Compiz",
@@ -52,18 +52,18 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20Tor%20browser8%205.jpg"
   },
   {
-   "title": "OpenLayers",
-   "description": "JavaScript library for displaying map data in web browsers",
-   "year": "2006",
-   "url": "https://openlayers.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20OpenLayers%206.9.0.png"
+   "title": "MAPS.ME",
+   "description": "commercial satellite navigation software using OpenStreetMap data",
+   "year": "2011",
+   "url": "https://maps.me/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maps.me%20android%20screenshot%202023-09.jpg"
   },
   {
-   "title": "NDISwrapper",
-   "description": "driver wrapper for Windows devices used on Linux",
-   "year": "2003",
-   "url": "https://ndiswrapper.sourceforge.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ndiswrapper.png"
+   "title": "Ettercap",
+   "description": "network traffic analysis and interception software",
+   "year": "2001",
+   "url": "http://www.ettercap-project.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ettercap%20ncurses-screenshot.png"
   },
   {
    "title": "Signal",
@@ -80,11 +80,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytoscape%20network%20visualization1.png"
   },
   {
-   "title": "Rocq prover",
-   "description": "proof assistant",
-   "year": "1984",
-   "url": "https://rocq-prover.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coq%208.5%20stdlib%20proof.png"
+   "title": "Simple Desktop Display Manager",
+   "description": "X11 & Wayland display manager",
+   "year": "2013",
+   "url": "https://github.com/sddm/sddm",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simple-desktop-display-manager.jpg"
   },
   {
    "title": "Cydia",
@@ -94,11 +94,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ScreenshotofCydia.jpg"
   },
   {
-   "title": "less",
-   "description": "command line tool to view text files",
-   "year": "1983",
-   "url": "https://www.greenwoodsoftware.com/less/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Less.jpg"
+   "title": "KDE neon",
+   "description": "Linux distribution with KDE Plasma, based on Ubuntu",
+   "year": "2016",
+   "url": "https://neon.kde.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Neon%205.27%20Desktop%20English.png"
   },
   {
    "title": "Common UNIX Printing System",
@@ -115,11 +115,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Icaros131.jpg"
   },
   {
-   "title": "CPython",
-   "description": "Python reference implementation",
-   "year": "1994",
-   "url": "https://www.python.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fibonnacci-Python.png"
+   "title": "WildFly",
+   "description": "Java application server software",
+   "year": "2008",
+   "url": "https://wildfly.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfly16%20HAL%20Management%20Console%20Screenshot.png"
   },
   {
    "title": "X.Org Server",
@@ -129,11 +129,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xdpyinfo%20screenshot.png"
   },
   {
-   "title": "GNU Emacs",
-   "description": "GNU version of the Emacs text editor",
-   "year": "1984",
-   "url": "https://www.gnu.org/software/emacs/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Emacs%2026.2%20screenshot.png"
+   "title": "Advanced Linux Sound Architecture",
+   "description": "software framework",
+   "year": "1998",
+   "url": "https://www.alsa-project.org/wiki/Main_Page",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alsa%20v1.0.14%20ubuntu7.1%20en.png"
   },
   {
    "title": "Wubi",
@@ -213,11 +213,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL%20psql%20screenshot.png"
   },
   {
-   "title": "Alpine",
-   "description": "email client",
-   "year": "2006",
-   "url": "https://alpineapp.email/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20email%20client.png"
+   "title": "Org-mode",
+   "description": "Emacs mode for task managing and notetaking",
+   "year": "2003",
+   "url": "https://orgmode.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Org-mode-show-all.png"
   },
   {
    "title": "Proxmox Virtual Environment",
@@ -227,11 +227,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Proxmox-VE-8-0-Cluster-Summary.png"
   },
   {
-   "title": "SonarQube",
-   "description": "static code analysis tool for continuous codebase inspection",
-   "year": "2007",
-   "url": "http://www.sonarqube.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SonarQube%20Project%20page.png"
+   "title": "iD",
+   "description": "web-based OpenStreetMap editor",
+   "year": "2013",
+   "url": "https://ideditor.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Editeur%20iD%20pour%20OSM%2C%20interface%20en%20fran%C3%A7ais%2C%20juillet%202021.png"
   },
   {
    "title": "SciTE",
@@ -255,18 +255,18 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoconf%202.68%20wine.png"
   },
   {
-   "title": "GNU nano",
-   "description": "small, user-friendly console text editor",
-   "year": "1999",
-   "url": "https://nano-editor.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20nano-6.4%20screenshot.png"
+   "title": "Anki",
+   "description": "spaced repetition software",
+   "year": "2006",
+   "url": "https://apps.ankiweb.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anki-23.12.12x17%3D.png"
   },
   {
-   "title": "Euro-Office",
-   "description": "office suite based on OnlyOffice",
-   "year": "2026",
-   "url": "https://github.com/Euro-Office",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro-Office.png"
+   "title": "NDISwrapper",
+   "description": "driver wrapper for Windows devices used on Linux",
+   "year": "2003",
+   "url": "https://ndiswrapper.sourceforge.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ndiswrapper.png"
   },
   {
    "title": "GStreamer",
@@ -283,18 +283,18 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo-sway-window-manager.png"
   },
   {
-   "title": "Gephi",
-   "description": "network analysis and visualization software package",
-   "year": "2008",
-   "url": "https://gephi.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gephi%200.9.1%20Network%20Analysis%20and%20Visualization%20Software.png"
+   "title": "AlphaBay",
+   "description": "darknet market",
+   "year": "2013",
+   "url": "http://clcua5cwkutouq2mgpf4dgejgx6reugt7pma5h5sueyogfl57xfsd5ad.onion",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphabay-forfeiture-notice-screenshot-2017-05-12.png"
   },
   {
-   "title": "GNU GRUB",
-   "description": "boot loader package",
-   "year": "1995",
-   "url": "https://www.gnu.org/software/grub/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Debian%20Unstable%20GRUB2%20%282015%29.png"
+   "title": "Apache Groovy",
+   "description": "programming language",
+   "year": "2003",
+   "url": "https://groovy.apache.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XGroovyConsole.gif.pagespeed.ic.MveHrO02zE.png"
   },
   {
    "title": "LilyPond",
@@ -304,11 +304,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PL-lilypond-2.10.33-screenshot.png"
   },
   {
-   "title": "TortoiseSVN",
-   "description": "Subversion client, implemented as a Microsoft Windows shell extension",
-   "year": "2002",
-   "url": "https://tortoisesvn.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TortoiseSVN.png"
+   "title": "GNU Aspell",
+   "description": "free software spell checker",
+   "year": "1998",
+   "url": "http://aspell.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aspell-ast.png"
   },
   {
    "title": "TYPO3",
@@ -318,11 +318,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TYPO3%20Backend.png"
   },
   {
-   "title": "GEGL",
-   "description": "image processing programming library",
-   "year": "2000",
-   "url": "https://www.gegl.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%201.4%20--%202001%2C%2004.png"
+   "title": "JabRef",
+   "description": "reference management software",
+   "year": "2003",
+   "url": "https://www.jabref.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JabRef-5.9.png"
   },
   {
    "title": "Alfresco",
@@ -339,11 +339,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arch%20Linux%20ARM-Asahi%20Linux%20Desktop%20English%2007-2023.png"
   },
   {
-   "title": "SAGA GIS",
-   "description": "map software",
-   "year": "2001",
-   "url": "http://www.saga-gis.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SAGA%20screenshot.jpg"
+   "title": "MediaGoblin",
+   "description": "media hosting software",
+   "year": "2011",
+   "url": "https://mediagoblin.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MediaGoblin%20homepage%20screenshot.png"
   },
   {
    "title": "xmonad",
@@ -388,11 +388,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osgi-system-layering.svg"
   },
   {
-   "title": "GNU Compiler for Java",
-   "description": "former GNU Compiler for the Java programming language",
-   "year": "1998",
-   "url": "https://gcc.gnu.org/wiki/GCJ",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gcj.png"
+   "title": "MythTV",
+   "description": "free and open source home entertainment application",
+   "year": "2002",
+   "url": "https://www.mythtv.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MythTV-main%20menu.png"
   },
   {
    "title": "GNU Debugger",
@@ -409,11 +409,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KGet%202.14.34.png"
   },
   {
-   "title": "Tiny C Compiler",
-   "description": "fast, small and free C compiler",
-   "year": "2002",
-   "url": "https://bellard.org/tcc/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiny%20C%20Compiler%200.9.23%20Windows%20help%20en.png"
+   "title": "LightDM",
+   "description": "free X display manager",
+   "year": "2010",
+   "url": "https://github.com/canonical/lightdm",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lightdm-screenshot.jpg"
   },
   {
    "title": "FreeBSD",
@@ -430,11 +430,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snap%20Entwicklungsumgung%20Beispiel.png"
   },
   {
-   "title": "GNU Midnight Commander",
-   "description": "a free cross-platform orthodox file manager and a clone of Norton Commander",
-   "year": "1994",
-   "url": "https://midnight-commander.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midnight%20Commander%20ru.png"
+   "title": "Code::Blocks",
+   "description": "free and open source, cross-platform IDE",
+   "year": "2005",
+   "url": "https://www.codeblocks.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CodeBlocks%208.02.png"
   },
   {
    "title": "Links",
@@ -458,25 +458,25 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo%20Live%20GUI%20USB%20running%20KDE.png"
   },
   {
-   "title": "Tezos",
-   "description": "decentralized, open-source blockchain network (and investment) that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts",
-   "year": "2014",
-   "url": "https://tezos.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tezbox%20wallet%20on%20send%20tab.png"
+   "title": "SonarQube",
+   "description": "static code analysis tool for continuous codebase inspection",
+   "year": "2007",
+   "url": "http://www.sonarqube.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SonarQube%20Project%20page.png"
   },
   {
-   "title": "OpenCart",
-   "description": "CMS OpenCart - eCommerce platform for creating open source online stores",
-   "year": "2012",
-   "url": "https://www.opencart.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenCart%20Screenshot%2024.4.2015.png"
+   "title": "Ark",
+   "description": "archiving tool for the KDE Software Compilation",
+   "year": "1997",
+   "url": "https://utils.kde.org/projects/ark",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ark%20mainwindow.png"
   },
   {
-   "title": "MAPS.ME",
-   "description": "commercial satellite navigation software using OpenStreetMap data",
-   "year": "2011",
-   "url": "https://maps.me/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maps.me%20android%20screenshot%202023-09.jpg"
+   "title": "OpenLayers",
+   "description": "JavaScript library for displaying map data in web browsers",
+   "year": "2006",
+   "url": "https://openlayers.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20OpenLayers%206.9.0.png"
   },
   {
    "title": "Linux-libre",
@@ -486,11 +486,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linux-Libre%203.0.66-1%20Boot.png"
   },
   {
-   "title": "Mantis Bug Tracker",
-   "description": "free and open source, web-based bug tracking system",
-   "year": "2000",
-   "url": "https://mantisbt.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MantisBT%202.5.1.png"
+   "title": "PlayOnLinux",
+   "description": "graphical front-end for the Wine software compatibility layer",
+   "year": "2007",
+   "url": "http://www.playonlinux.com",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PlayOnLinux-Screenshot.png"
   },
   {
    "title": "TrueOS",
@@ -514,11 +514,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Client%20connected.png"
   },
   {
-   "title": "Trinity Desktop Environment",
-   "description": "continuation of KDE 3",
-   "year": "2010",
-   "url": "https://www.trinitydesktop.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TDE%20R14.0.10.png"
+   "title": "BlueGriffon",
+   "description": "Web and EPUB Editor based on the rendering engine of Firefox",
+   "year": "2008",
+   "url": "http://www.bluegriffon.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Faenza-bluegriffon.svg"
   },
   {
    "title": "Namecoin",
@@ -556,18 +556,18 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zorin%20OS16%20Core.png"
   },
   {
-   "title": "Mattermost",
-   "description": "open source messaging software",
-   "year": "2015",
-   "url": "https://mattermost.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mattermost%20UI.png"
+   "title": "Tiny C Compiler",
+   "description": "fast, small and free C compiler",
+   "year": "2002",
+   "url": "https://bellard.org/tcc/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiny%20C%20Compiler%200.9.23%20Windows%20help%20en.png"
   },
   {
-   "title": "Org-mode",
-   "description": "Emacs mode for task managing and notetaking",
-   "year": "2003",
-   "url": "https://orgmode.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Org-mode-show-all.png"
+   "title": "Alpine",
+   "description": "email client",
+   "year": "2006",
+   "url": "https://alpineapp.email/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20email%20client.png"
   },
   {
    "title": "PDF Split and Merge",
@@ -619,25 +619,25 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fedora%2041%20Workstation.png"
   },
   {
-   "title": "World Atlas of Language Structures",
-   "description": "database of language structures",
+   "title": "Krusader",
+   "description": "dual-pane file manager",
+   "year": "2000",
+   "url": "https://krusader.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Krusader%202.7.2%20screenshot.png"
+  },
+  {
+   "title": "K-9 Mail",
+   "description": "E-Mail application for Android",
    "year": "2008",
-   "url": "http://wals.info",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/APiCS%20languages%20map.png"
+   "url": "https://k9mail.app/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/K-9%20Mail%20main%20page%20screenshot.png"
   },
   {
-   "title": "Weblate",
-   "description": "web-based translation software and associated organization",
-   "year": "2012",
-   "url": "https://weblate.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weblate%20screenshot.png"
-  },
-  {
-   "title": "KDE neon",
-   "description": "Linux distribution with KDE Plasma, based on Ubuntu",
-   "year": "2016",
-   "url": "https://neon.kde.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Neon%205.27%20Desktop%20English.png"
+   "title": "less",
+   "description": "command line tool to view text files",
+   "year": "1983",
+   "url": "https://www.greenwoodsoftware.com/less/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Less.jpg"
   },
   {
    "title": "Electric",
@@ -647,11 +647,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Electric%20eda.png"
   },
   {
-   "title": "GNU Aspell",
-   "description": "free software spell checker",
-   "year": "1998",
-   "url": "http://aspell.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aspell-ast.png"
+   "title": "Mesa",
+   "description": "free and open-source library for 3D graphics rendering",
+   "year": "1993",
+   "url": "https://www.mesa3d.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glxinfo-with-glxgears.png"
   },
   {
    "title": "Rosetta@home",
@@ -668,11 +668,11 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A9ma%20d%C3%A9tail%20outils%20spark.png"
   },
   {
-   "title": "Anki",
-   "description": "spaced repetition software",
-   "year": "2006",
-   "url": "https://apps.ankiweb.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anki-23.12.12x17%3D.png"
+   "title": "GNU nano",
+   "description": "small, user-friendly console text editor",
+   "year": "1999",
+   "url": "https://nano-editor.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20nano-6.4%20screenshot.png"
   },
   {
    "title": "Textpattern",
@@ -682,18 +682,18 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Textpattern%20backend%20screen.gif"
   },
   {
-   "title": "Mutt",
-   "description": "text-based email client for Unix-like systems",
-   "year": "1995",
-   "url": "http://www.mutt.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutt%20rus.png"
+   "title": "wxPython",
+   "description": "Python binding for the wxWidgets",
+   "year": "1998",
+   "url": "https://wxpython.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WxPythonTestLinux.png"
   },
   {
-   "title": "Advanced Linux Sound Architecture",
-   "description": "software framework",
-   "year": "1998",
-   "url": "https://www.alsa-project.org/wiki/Main_Page",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alsa%20v1.0.14%20ubuntu7.1%20en.png"
+   "title": "GNU Midnight Commander",
+   "description": "a free cross-platform orthodox file manager and a clone of Norton Commander",
+   "year": "1994",
+   "url": "https://midnight-commander.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midnight%20Commander%20ru.png"
   },
   {
    "title": "Denemo",
