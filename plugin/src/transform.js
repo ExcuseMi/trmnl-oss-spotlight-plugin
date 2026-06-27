@@ -35,6 +35,7 @@ function transform(input) {
     return {
       title: p.title || "",
       description: p.description || "",
+      summary: p.summary || p.description || "",
       year: p.year || "",
       url: p.url || "",
       domain: domainOf(p.url),

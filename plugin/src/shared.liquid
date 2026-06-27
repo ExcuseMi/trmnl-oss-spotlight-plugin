@@ -2,32 +2,40 @@
 
 <script>var __oss = {{ items | json }};</script>
 
-{%- if view == 1 -%}{%- assign title_cls = "title--xlarge" -%}{%- assign desc_clamp = 5 -%}
-{%- elsif view == 2 -%}{%- assign title_cls = "title--large" -%}{%- assign desc_clamp = 4 -%}
-{%- elsif view == 3 -%}{%- assign title_cls = "title--large" -%}{%- assign desc_clamp = 3 -%}
-{%- else -%}{%- assign title_cls = "title--small" -%}{%- assign desc_clamp = 3 -%}{%- endif -%}
+{%- comment -%} lg: tiers target the larger TRMNL X / V2 (4-bit) display {%- endcomment -%}
+{%- if view == 1 -%}{%- assign title_cls = "title--xlarge lg:title--xxlarge" -%}{%- assign desc_clamp = 5 -%}
+{%- elsif view == 2 -%}{%- assign title_cls = "title--large lg:title--xlarge" -%}{%- assign desc_clamp = 4 -%}
+{%- elsif view == 3 -%}{%- assign title_cls = "title--large lg:title--xlarge" -%}{%- assign desc_clamp = 3 -%}
+{%- else -%}{%- assign title_cls = "title--small lg:title--base" -%}{%- assign desc_clamp = 3 -%}{%- endif -%}
 
 {%- capture text_block -%}
-  {% unless view == 4 %}<span class="label label--small">Open-Source Spotlight</span>{% endunless %}
+  {% unless view == 4 %}<span class="label label--small lg:label--base">Open-Source Spotlight</span>{% endunless %}
   <span class="oss-title title {{ title_cls }}" data-clamp="2"></span>
-  <span class="oss-desc description{% if view == 1 %} description--large{% endif %}" data-clamp="{{ desc_clamp }}"></span>
+  {% if view == 1 %}
+    {%- comment -%} Full view: one-line tagline + the Wikipedia intro ("why use it") {%- endcomment -%}
+    <span class="oss-tagline label label--small lg:label--base">tagline</span>
+    <span class="oss-summary description description--base lg:description--large" data-clamp="9" data-clamp-lg="11">summary</span>
+  {% else %}
+    <span class="oss-desc description{% if view == 2 %} lg:description--large{% endif %}" data-clamp="{{ desc_clamp }}">desc</span>
+  {% endif %}
   <div class="flex gap--small">
-    <span class="oss-year label label--small label--underline"></span>
-    <span class="oss-domain label label--small"></span>
+    <span class="oss-year label label--small lg:label--base label--underline"></span>
+    <span class="oss-domain label label--small lg:label--base"></span>
   </div>
 {%- endcapture -%}
 
 {% if view == 1 or view == 2 %}
-  <div class="grid {% if view == 1 %}grid--cols-5{% else %}grid--cols-3{% endif %} gap--large h--full">
-    <div class="{% if view == 1 %}col--span-3{% else %}col--span-2{% endif %} flex flex--col flex--left flex--top gap--small">{{ text_block }}</div>
-    <div class="oss-figure {% if view == 1 %}col--span-2{% else %}col--span-1{% endif %} flex flex--col flex--center">
+  {%- comment -%} Side-by-side in landscape; stack (text over image) in portrait {%- endcomment -%}
+  <div class="grid {% if view == 1 %}grid--cols-5{% else %}grid--cols-3{% endif %} portrait:grid--cols-1 gap--large portrait:gap--small h--full">
+    <div class="{% if view == 1 %}col--span-3{% else %}col--span-2{% endif %} portrait:col--span-1 flex flex--col flex--left flex--top gap--small">{{ text_block }}</div>
+    <div class="oss-figure {% if view == 1 %}col--span-2{% else %}col--span-1{% endif %} portrait:col--span-1 flex flex--col flex--center portrait:h--[320px] lg:portrait:h--[460px]">
       <img class="oss-image image image-dither image--contain h--full" alt="">
     </div>
   </div>
 {% elsif view == 3 %}
   <div class="layout layout--col layout--top gap--small h--full">
     <div class="flex flex--col flex--left flex--top gap--small">{{ text_block }}</div>
-    <div class="oss-figure flex flex--center stretch-x h--[150px]">
+    <div class="oss-figure flex flex--center stretch-x h--[150px] lg:h--[240px] portrait:h--[300px]">
       <img class="oss-image image image-dither image--contain h--full" alt="">
     </div>
   </div>
@@ -57,6 +65,8 @@
   }
   set('.oss-title', p.title);
   set('.oss-desc', p.description);
+  set('.oss-tagline', p.description);
+  set('.oss-summary', p.summary || p.description);
   set('.oss-year', p.year ? 'Since ' + p.year : '');
   set('.oss-domain', p.domain);
 
