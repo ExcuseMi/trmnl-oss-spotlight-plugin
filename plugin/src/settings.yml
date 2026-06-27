@@ -1,0 +1,22 @@
+---
+strategy: polling
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+framework_version: latest
+serverless_language: node
+polling_url: https://raw.githubusercontent.com/ExcuseMi/trmnl-oss-spotlight-plugin/main/projects.json
+polling_headers: ''
+polling_body: 
+id: 354984
+custom_fields:
+- keyname: author_info
+  name: About This Plugin
+  field_type: author_bio
+  description: Discover a different open-source project every day — from the Linux kernel to terminal tools to new AI projects.<br /><br />Each entry shows the project description, founding year, website and a screenshot, sourced from community-curated <strong>Wikidata</strong>. The list refreshes daily and evolves on its own as editors add new projects.
+  github_url: https://github.com/ExcuseMi/trmnl-oss-spotlight-plugin
+  category: discovery
+  help_text: TRMNL X Ready
+name: OSS Spotlight
+refresh_interval: 1440

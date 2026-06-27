@@ -1,0 +1,44 @@
+# TRMNLP configuration
+# {{ env.VARIABLE }} interpolation is available here
+---
+# auto-reload when files change (`watch: false` to disable)
+watch:
+  - .trmnlp.yml
+  - src
+
+# values of custom fields (defined in src/settings.yml)
+custom_fields: {}
+
+# override variables — mirrors the shape returned by src/transform.js
+variables:
+  trmnl:
+    plugin_settings:
+      instance_name: OSS Spotlight
+  updated: "2026-06-27"
+  pool_size: 100
+  timestamp: 1782000000000
+  items:
+    - title: ripgrep
+      description: "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+      year: "2016"
+      url: https://github.com/BurntSushi/ripgrep
+      domain: github.com
+      image: https://commons.wikimedia.org/wiki/Special:FilePath/Ripgrep%20screenshot.png
+    - title: GNU Bash
+      description: "The GNU Project's implementation of the standard Unix shell, with command-line editing and scripting"
+      year: "1989"
+      url: https://www.gnu.org/software/bash/
+      domain: gnu.org
+      image: https://commons.wikimedia.org/wiki/Special:FilePath/Command%20line.png
+    - title: PostgreSQL
+      description: "A powerful, open-source object-relational database system with a strong reputation for reliability"
+      year: "1996"
+      url: https://www.postgresql.org
+      domain: postgresql.org
+      image: https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL%20psql%20screenshot.png
+    - title: Blender
+      description: "Free and open-source 3D creation suite supporting modeling, animation, rendering and compositing"
+      year: "1994"
+      url: https://www.blender.org
+      domain: blender.org
+      image: https://commons.wikimedia.org/wiki/Special:FilePath/Blender%202.9%20screenshot.png

@@ -1,0 +1,64 @@
+{% template main %}
+
+<script>var __oss = {{ items | json }};</script>
+
+<div class="layout h--full {% if view == 3 %}layout--col{% else %}layout--row{% endif %} gap--large">
+
+  <div class="flex flex--col gap--small stretch-y">
+    {% unless view == 4 %}
+      <span class="label label--small">Open-Source Spotlight</span>
+    {% endunless %}
+
+    <span class="oss-title title {% if view == 1 %}title--xlarge{% elsif view == 4 %}title--small{% else %}title--large{% endif %}" data-clamp="2"></span>
+
+    <span class="oss-desc description {% if view == 1 %}description--large{% endif %}" data-clamp="{% if view == 1 %}5{% elsif view == 4 %}3{% else %}4{% endif %}"></span>
+
+    <div class="flex gap--small">
+      <span class="oss-year label label--small label--underline"></span>
+      <span class="oss-domain label label--small"></span>
+    </div>
+  </div>
+
+  {% if view == 1 or view == 2 or view == 3 %}
+    <div class="oss-figure flex flex--col {% if view == 1 %}w--[38cqw]{% elsif view == 2 %}w--[30cqw]{% elsif view == 3 %}h--[40cqh]{% endif %}">
+      <img class="oss-image image image-dither image--contain" alt="">
+    </div>
+  {% endif %}
+
+</div>
+
+<div class="title_bar">
+  {%- capture svg_logo -%}<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#f8654b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 7 9 12 4 17"/><line x1="12" y1="17" x2="20" y2="17"/></svg>{%- endcapture -%}
+  <img class="image" src="data:image/svg+xml;base64,{{ svg_logo | base64_encode }}" alt="OSS">
+  <span class="title">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>
+
+<script>
+(function () {
+  var views = Array.prototype.slice.call(document.querySelectorAll('.view'));
+  var script = document.currentScript;
+  var host = views.filter(function (v) { return v.contains(script); })[0] || document.body;
+  var idx = views.indexOf(host);
+  if (idx < 0) idx = 0;
+  var pool = (typeof __oss !== 'undefined' && __oss) ? __oss : [];
+  var p = pool.length ? pool[idx % pool.length] : {};
+
+  function set(sel, val) {
+    var el = host.querySelector(sel);
+    if (el) el.textContent = val || '';
+  }
+  set('.oss-title', p.title);
+  set('.oss-desc', p.description);
+  set('.oss-year', p.year ? 'Since ' + p.year : '');
+  set('.oss-domain', p.domain);
+
+  var fig = host.querySelector('.oss-figure');
+  var img = host.querySelector('.oss-image');
+  if (img) {
+    if (p.image) { img.setAttribute('src', p.image); }
+    else if (fig) { fig.parentNode.removeChild(fig); }
+  }
+})();
+</script>
+
+{% endtemplate %}

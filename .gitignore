@@ -1,0 +1,13 @@
+# trmnlp local build output
+plugin/_build/
+plugin/build/
+# node
+node_modules/
+# python
+__pycache__/
+*.pyc
+# editor / local
+.idea/
+.env
+.mcp.json
+.claude/

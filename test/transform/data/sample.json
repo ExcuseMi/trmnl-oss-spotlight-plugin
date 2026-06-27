@@ -1,0 +1,31 @@
+[
+  {
+    "name": "daily snapshot with projects",
+    "input": {
+      "trmnl": {
+        "system": { "timestamp_utc": 1782000000 },
+        "plugin_settings": {
+          "instance_name": "OSS Spotlight",
+          "strategy": "polling",
+          "custom_fields_values": {}
+        }
+      },
+      "data": {
+        "updated": "2026-06-27",
+        "count": 3,
+        "projects": [
+          { "title": "ripgrep", "description": "recursively searches directories for a regex pattern", "year": "2016", "url": "https://github.com/BurntSushi/ripgrep", "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ripgrep.png" },
+          { "title": "GNU Bash", "description": "the GNU Project's Unix shell", "year": "1989", "url": "https://www.gnu.org/software/bash/", "image": "" },
+          { "title": "PostgreSQL", "description": "open-source relational database", "year": "1996", "url": "https://www.postgresql.org", "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL.png" }
+        ]
+      }
+    }
+  },
+  {
+    "name": "empty snapshot",
+    "input": {
+      "trmnl": { "system": { "timestamp_utc": 1782000000 }, "plugin_settings": { "instance_name": "OSS Spotlight" } },
+      "data": { "updated": "2026-06-27", "count": 0, "projects": [] }
+    }
+  }
+]
