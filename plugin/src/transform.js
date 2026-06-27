@@ -7,7 +7,11 @@
 // refreshes — this keeps the plugin "active" and lets it rotate projects
 // on each refresh instead of being skipped by lazy refresh.
 function transform(input) {
-  var data = input.data || {};
+  input = input || {};
+  // TRMNL exposes the polling body fields directly on `input`
+  // (input.projects, input.updated). Fall back to input.data only if a
+  // wrapper is ever present.
+  var data = (input.projects || input.updated) ? input : (input.data || input);
   var list = Array.isArray(data.projects)
     ? data.projects
     : (Array.isArray(data) ? data : []);

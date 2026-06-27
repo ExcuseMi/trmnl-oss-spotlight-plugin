@@ -2,30 +2,38 @@
 
 <script>var __oss = {{ items | json }};</script>
 
-<div class="layout h--full {% if view == 3 %}layout--col{% else %}layout--row{% endif %} gap--large">
+{%- if view == 1 -%}{%- assign title_cls = "title--xlarge" -%}{%- assign desc_clamp = 5 -%}
+{%- elsif view == 2 -%}{%- assign title_cls = "title--large" -%}{%- assign desc_clamp = 4 -%}
+{%- elsif view == 3 -%}{%- assign title_cls = "title--large" -%}{%- assign desc_clamp = 3 -%}
+{%- else -%}{%- assign title_cls = "title--small" -%}{%- assign desc_clamp = 3 -%}{%- endif -%}
 
-  <div class="flex flex--col gap--small stretch-y">
-    {% unless view == 4 %}
-      <span class="label label--small">Open-Source Spotlight</span>
-    {% endunless %}
+{%- capture text_block -%}
+  {% unless view == 4 %}<span class="label label--small">Open-Source Spotlight</span>{% endunless %}
+  <span class="oss-title title {{ title_cls }}" data-clamp="2"></span>
+  <span class="oss-desc description{% if view == 1 %} description--large{% endif %}" data-clamp="{{ desc_clamp }}"></span>
+  <div class="flex gap--small">
+    <span class="oss-year label label--small label--underline"></span>
+    <span class="oss-domain label label--small"></span>
+  </div>
+{%- endcapture -%}
 
-    <span class="oss-title title {% if view == 1 %}title--xlarge{% elsif view == 4 %}title--small{% else %}title--large{% endif %}" data-clamp="2"></span>
-
-    <span class="oss-desc description {% if view == 1 %}description--large{% endif %}" data-clamp="{% if view == 1 %}5{% elsif view == 4 %}3{% else %}4{% endif %}"></span>
-
-    <div class="flex gap--small">
-      <span class="oss-year label label--small label--underline"></span>
-      <span class="oss-domain label label--small"></span>
+{% if view == 1 or view == 2 %}
+  <div class="grid {% if view == 1 %}grid--cols-5{% else %}grid--cols-3{% endif %} gap--large h--full">
+    <div class="{% if view == 1 %}col--span-3{% else %}col--span-2{% endif %} flex flex--col flex--left flex--top gap--small">{{ text_block }}</div>
+    <div class="oss-figure {% if view == 1 %}col--span-2{% else %}col--span-1{% endif %} flex flex--col flex--center">
+      <img class="oss-image image image-dither image--contain h--full" alt="">
     </div>
   </div>
-
-  {% if view == 1 or view == 2 or view == 3 %}
-    <div class="oss-figure flex flex--col {% if view == 1 %}w--[38cqw]{% elsif view == 2 %}w--[30cqw]{% elsif view == 3 %}h--[40cqh]{% endif %}">
-      <img class="oss-image image image-dither image--contain" alt="">
+{% elsif view == 3 %}
+  <div class="layout layout--col layout--top gap--small h--full">
+    <div class="flex flex--col flex--left flex--top gap--small">{{ text_block }}</div>
+    <div class="oss-figure flex flex--center stretch-x h--[150px]">
+      <img class="oss-image image image-dither image--contain h--full" alt="">
     </div>
-  {% endif %}
-
-</div>
+  </div>
+{% else %}
+  <div class="flex flex--col flex--left flex--top gap--small h--full">{{ text_block }}</div>
+{% endif %}
 
 <div class="title_bar">
   {%- capture svg_logo -%}<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#f8654b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 7 9 12 4 17"/><line x1="12" y1="17" x2="20" y2="17"/></svg>{%- endcapture -%}

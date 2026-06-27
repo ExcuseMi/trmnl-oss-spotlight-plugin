@@ -8,24 +8,41 @@ import urllib.request
 ENDPOINT = "https://query.wikidata.org/sparql"
 UA = "trmnl-oss-spotlight/1.0 (https://github.com/ExcuseMi/trmnl-oss-spotlight-plugin; wardje@gmail.com)"
 
-# Pull a large popular pool; we sample from it for daily variety.
+# Pull a popular pool of real software, then sample from it for daily variety.
+# Constraints, all required:
+#   P31/P279* Q341  -> free/open-source software
+#   P31/P279* Q7397 -> is actually software (excludes services, books, protocols)
+#   P856            -> has an official website
+#   P571            -> has a founding/inception date
+#   P18             -> has a screenshot/image (every spotlight gets a visual)
 # Ranked by sitelinks (number of Wikipedia language editions) as a popularity proxy.
+# GROUP BY ?item collapses the SPARQL path-multiplication into one row per project.
 QUERY = """
-SELECT ?name ?desc ?inception ?website ?img ?sl WHERE {
+SELECT ?item
+       (SAMPLE(?name) AS ?nm)
+       (SAMPLE(?desc) AS ?ds)
+       (SAMPLE(?inception) AS ?inc)
+       (SAMPLE(?website) AS ?web)
+       (SAMPLE(?im) AS ?img)
+       (SAMPLE(?sl) AS ?sites)
+WHERE {
   ?item wdt:P31/wdt:P279* wd:Q341 .
+  ?item wdt:P31/wdt:P279* wd:Q7397 .
   ?item wikibase:sitelinks ?sl .
   ?item wdt:P856 ?website .
   ?item wdt:P571 ?inception .
+  ?item wdt:P18 ?im .
   ?item rdfs:label ?name . FILTER(LANG(?name)="en")
   ?item schema:description ?desc . FILTER(LANG(?desc)="en")
-  OPTIONAL { ?item wdt:P18 ?img . }
 }
-ORDER BY DESC(?sl) LIMIT 400
+GROUP BY ?item
+ORDER BY DESC(?sites) LIMIT 250
 """
 
-# Crypto/protocols/services that aren't "tools to learn".
+# Protocols / services / coins that are tagged as software but aren't "tools to learn".
 SKIP = {"Bitcoin", "Ethereum", "Monero", "Telegram", "OpenStreetMap", "Litecoin",
-        "Dogecoin", "Zcash", "arXiv", "Wikipedia", "Wikimedia Commons", "Bitcoin Cash"}
+        "Dogecoin", "Zcash", "arXiv", "Wikipedia", "Wikimedia Commons", "Bitcoin Cash",
+        "Bluesky", "Ripple", "Cardano", "Solana"}
 
 POOL_SIZE = 100
 
@@ -41,16 +58,16 @@ def main():
     rows = fetch()
     seen, pool = set(), []
     for b in rows:
-        name = b["name"]["value"]
+        name = b["nm"]["value"]
         if name in seen or name in SKIP:
             continue
         seen.add(name)
         image = b.get("img", {}).get("value", "").replace("http://", "https://", 1)
         pool.append({
             "title": name,
-            "description": b["desc"]["value"],
-            "year": b["inception"]["value"][:4],
-            "url": b["website"]["value"],
+            "description": b["ds"]["value"],
+            "year": b["inc"]["value"][:4],
+            "url": b["web"]["value"],
             "image": image,
         })
 

@@ -3,564 +3,11 @@
  "count": 100,
  "projects": [
   {
-   "title": "Ututo",
-   "description": "Linux distribution",
-   "year": "2000",
-   "url": "http://ututo.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ututo%202012%20screenshot.png"
-  },
-  {
-   "title": "Ripple",
-   "description": "Payment protocol",
-   "year": "2012",
-   "url": "https://ripple.com",
-   "image": ""
-  },
-  {
-   "title": "GNU nano",
-   "description": "small, user-friendly console text editor",
-   "year": "1999",
-   "url": "https://nano-editor.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20nano-6.4%20screenshot.png"
-  },
-  {
-   "title": "diaspora*",
-   "description": "free personal web server to run a node of the Diaspora social network",
-   "year": "2010",
-   "url": "https://diasporafoundation.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diaspora%20latest.png"
-  },
-  {
-   "title": "less",
-   "description": "command line tool to view text files",
-   "year": "1983",
-   "url": "https://www.greenwoodsoftware.com/less/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Less.jpg"
-  },
-  {
-   "title": "SugarCRM",
-   "description": "company",
-   "year": "2004",
-   "url": "https://www.sugarcrm.com/",
-   "image": ""
-  },
-  {
-   "title": "TortoiseGit",
-   "description": "Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN",
-   "year": "2008",
-   "url": "https://tortoisegit.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TortoiseGit%20-%20pull%20and%20push.png"
-  },
-  {
-   "title": "Trac",
-   "description": "open-source, Web-based project management and bug tracking system",
-   "year": "2004",
-   "url": "https://trac.edgewall.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trac%20screenshot.png"
-  },
-  {
-   "title": "Jekyll",
-   "description": "Ruby-based static website generator",
-   "year": "2008",
-   "url": "https://jekyllrb.com",
-   "image": ""
-  },
-  {
-   "title": "Netwide Assembler",
-   "description": "assembler and disassembler for the Intel x86 architecture",
-   "year": "1996",
-   "url": "https://www.nasm.us",
-   "image": ""
-  },
-  {
-   "title": "Apache Cocoon",
-   "description": "Web application framework",
-   "year": "2006",
-   "url": "https://cocoon.apache.org/",
-   "image": ""
-  },
-  {
-   "title": "RPM Package Manager",
-   "description": "software package management system",
-   "year": "1997",
-   "url": "https://rpm.org",
-   "image": ""
-  },
-  {
-   "title": "i3",
-   "description": "simple and lightweight window manager with few dependencies",
-   "year": "2009",
-   "url": "https://i3wm.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/I3%20window%20manager%20screenshot.png"
-  },
-  {
-   "title": "Common UNIX Printing System",
-   "description": "standards-based, open source printing system developed",
-   "year": "1999",
-   "url": "https://openprinting.github.io/cups/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenPrinting%20CUPS%20screenshot.webp"
-  },
-  {
-   "title": "LESS",
-   "description": "dynamic stylesheet language",
-   "year": "2009",
-   "url": "http://lesscss.org",
-   "image": ""
-  },
-  {
-   "title": "Greasemonkey",
-   "description": "Mozilla Firefox extension",
-   "year": "2005",
-   "url": "https://www.greasespot.net/",
-   "image": ""
-  },
-  {
-   "title": "OpenCart",
-   "description": "CMS OpenCart - eCommerce platform for creating open source online stores",
-   "year": "2012",
-   "url": "https://www.opencart.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenCart%20Screenshot%2024.4.2015.png"
-  },
-  {
-   "title": "CPython",
-   "description": "Python reference implementation",
-   "year": "1994",
-   "url": "https://www.python.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fibonnacci-Python.png"
-  },
-  {
-   "title": "Apache Mahout",
-   "description": "open-source machine learning algorithms",
-   "year": "2011",
-   "url": "http://mahout.apache.org",
-   "image": ""
-  },
-  {
-   "title": "Agda",
-   "description": "dependently typed, purely functional programming language and proof assistant",
-   "year": "2007",
-   "url": "https://wiki.portal.chalmers.se/agda/pmwiki.php",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agda%20proof.jpg"
-  },
-  {
-   "title": "TortoiseSVN",
-   "description": "Subversion client, implemented as a Microsoft Windows shell extension",
-   "year": "2002",
-   "url": "https://tortoisesvn.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TortoiseSVN.png"
-  },
-  {
-   "title": "Nagios",
-   "description": "computer system and network monitoring application software",
-   "year": "1999",
-   "url": "https://www.nagios.org",
-   "image": ""
-  },
-  {
-   "title": "Mutt",
-   "description": "text-based email client for Unix-like systems",
-   "year": "1995",
-   "url": "http://www.mutt.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutt%20rus.png"
-  },
-  {
-   "title": "Rocky Linux",
-   "description": "Linux distribution based on Red Hat Enterprise Linux",
-   "year": "2021",
-   "url": "https://rockylinux.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Linux%209%20Workstation%20showing%20GNOME%20Shell%2040.png"
-  },
-  {
-   "title": "GNU Compiler for Java",
-   "description": "former GNU Compiler for the Java programming language",
-   "year": "1998",
-   "url": "https://gcc.gnu.org/wiki/GCJ",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gcj.png"
-  },
-  {
-   "title": "Luanti",
-   "description": "opensource voxel game engine",
-   "year": "2010",
-   "url": "https://www.luanti.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minetest%20Game%20Main%20Menu.png"
-  },
-  {
-   "title": "GNU Chess",
-   "description": "chess-playing program for playing chess against the computer on a terminal or, more commonly, as a chess engine for graphical chess front-ends",
-   "year": "1984",
-   "url": "https://www.gnu.org/software/chess/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnomechess.png"
-  },
-  {
-   "title": "GNU Multiple Precision Arithmetic Library",
-   "description": "library for arbitrary precision arithmetic, operating on signed integers, rational numbers and floating point numbers",
-   "year": "1991",
-   "url": "https://gmplib.org",
-   "image": ""
-  },
-  {
-   "title": "Linux Mint",
-   "description": "Ubuntu/Debian-based Linux distribution",
-   "year": "2006",
-   "url": "https://www.linuxmint.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LinuxMint22-Wilma-English.png"
-  },
-  {
-   "title": "JasperReports",
-   "description": "reporting tool",
-   "year": "2002",
-   "url": "https://community.jaspersoft.com/project/jasperreports-library",
-   "image": ""
-  },
-  {
-   "title": "curl",
-   "description": "command line tool and library for transferring data with URL syntax",
-   "year": "1996",
-   "url": "https://curl.se/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CURL%20example%20screenshot.png"
-  },
-  {
-   "title": "Grails",
-   "description": "Open source web application framework",
-   "year": "2005",
-   "url": "https://grails.org/",
-   "image": ""
-  },
-  {
-   "title": "PlayOnLinux",
-   "description": "graphical front-end for the Wine software compatibility layer",
-   "year": "2007",
-   "url": "http://www.playonlinux.com",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PlayOnLinux-Screenshot.png"
-  },
-  {
-   "title": "SeaMonkey",
-   "description": "internet suite with web browser, mail and news client, HTML editor and IRC client",
-   "year": "2006",
-   "url": "https://www.seamonkey-project.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SeaMonkey%202.53.10%20screenshot.png"
-  },
-  {
-   "title": "GStreamer",
-   "description": "Pipeline-based multimedia framework",
-   "year": "1999",
-   "url": "https://gstreamer.freedesktop.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GStreamer%20example%20pipeline.svg"
-  },
-  {
-   "title": "Rhino",
-   "description": "JavaScript engine",
-   "year": "1997",
-   "url": "https://mozilla.github.io/rhino/",
-   "image": ""
-  },
-  {
-   "title": "HTTPS Everywhere",
-   "description": "browser extension for making web browsers use HTTPS instead of HTTP when possible",
-   "year": "2010",
-   "url": "https://www.eff.org/https-everywhere",
-   "image": ""
-  },
-  {
-   "title": "xmonad",
-   "description": "X11 tiling window manager",
-   "year": "2007",
-   "url": "https://xmonad.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xmonad-tall-status-dons.png"
-  },
-  {
-   "title": "Apache Kafka",
-   "description": "open source data stream processing platform",
-   "year": "2010",
-   "url": "https://kafka.apache.org/",
-   "image": ""
-  },
-  {
-   "title": "LightDM",
-   "description": "free X display manager",
-   "year": "2010",
-   "url": "https://github.com/canonical/lightdm",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lightdm-screenshot.jpg"
-  },
-  {
-   "title": "Gnash",
-   "description": "free and open-source SWF (Flash) player (GNU Project)",
-   "year": "2005",
-   "url": "https://gnu.org/software/gnash",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnash-0.8.0.png"
-  },
-  {
-   "title": "K-9 Mail",
-   "description": "E-Mail application for Android",
-   "year": "2008",
-   "url": "https://k9mail.app/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/K-9%20Mail%20main%20page%20screenshot.png"
-  },
-  {
-   "title": "Mega.io",
-   "description": "cloud storage and file hosting service",
-   "year": "2013",
-   "url": "https://mega.io/zh-hant/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MEGA%20Chat%20Screenshot%2008-01-2017%20anonymized.png"
-  },
-  {
-   "title": "Glasgow Haskell Compiler",
-   "description": "compiler for the Haskell programming language",
-   "year": "1989",
-   "url": "https://www.haskell.org/ghc/",
-   "image": ""
-  },
-  {
-   "title": "nginx",
-   "description": "open source web server and a reverse proxy server",
-   "year": "2004",
-   "url": "https://nginx.org/",
-   "image": ""
-  },
-  {
-   "title": "R",
-   "description": "programming language for statistical analysis",
-   "year": "1993",
-   "url": "https://www.r-project.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R%20Terminal.png"
-  },
-  {
-   "title": "Pasporta Servo",
-   "description": "hospitality service for esperantists",
-   "year": "1974",
-   "url": "https://pasportaservo.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gastamon%20en%20mia%20domo.jpg"
-  },
-  {
-   "title": "Rocq prover",
-   "description": "proof assistant",
-   "year": "1984",
-   "url": "https://rocq-prover.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coq%208.5%20stdlib%20proof.png"
-  },
-  {
-   "title": "OpenShift",
-   "description": "cloud computing software",
-   "year": "2011",
-   "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
-   "image": ""
-  },
-  {
-   "title": "Samba",
-   "description": "free software re-implementation of the SMB networking protocol",
-   "year": "1992",
-   "url": "https://www.samba.org",
-   "image": ""
-  },
-  {
-   "title": "GNU RCS",
-   "description": "file versioning tool to manage multiple revisions of files",
-   "year": "1982",
-   "url": "https://gnu.org/s/rcs/",
-   "image": ""
-  },
-  {
-   "title": "KolibriOS",
-   "description": "operating system written completely in assembly",
-   "year": "2004",
-   "url": "https://kolibrios.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KolibriOS%20desktop%2C%20summer%202024.png"
-  },
-  {
-   "title": "AlmaLinux",
-   "description": "Linux distribution",
-   "year": "2021",
-   "url": "https://almalinux.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlmaLinux%2010.0%20desktop%20with%20GNOME%2047.png"
-  },
-  {
-   "title": "Smarty",
-   "description": "Web template system in PHP",
-   "year": "2001",
-   "url": "https://www.smarty.net/",
-   "image": ""
-  },
-  {
-   "title": "bioRxiv",
-   "description": "preprint service",
-   "year": "2013",
-   "url": "https://www.biorxiv.org/",
-   "image": ""
-  },
-  {
-   "title": "Nextcloud",
-   "description": "self-hosted productivity platform which provides private and secure functions for file sharing, collaborative work, and more ; includes the Nextcloud server, client applications for desktop computers, and mobile clients",
-   "year": "2016",
-   "url": "https://nextcloud.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/File-Nextcloud%20File%20Manager%20Screenshot.png"
-  },
-  {
-   "title": "Proxmox Virtual Environment",
-   "description": "Linux distribution for server virtualization",
-   "year": "2008",
-   "url": "https://www.proxmox.com/de/proxmox-virtual-environment/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Proxmox-VE-8-0-Cluster-Summary.png"
-  },
-  {
-   "title": "Matomo",
-   "description": "free software web analytics system",
-   "year": "2007",
-   "url": "https://matomo.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matomo%204.0%20screenshot%20-%20English.png"
-  },
-  {
-   "title": "Wubi",
-   "description": "discontinued Ubuntu Linux installer for Windows",
-   "year": "2008",
-   "url": "http://wubi.sourceforge.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wubi%20screenshot.png"
-  },
-  {
-   "title": "Zabbix",
-   "description": "computer system and network monitoring application software",
-   "year": "2001",
-   "url": "https://www.zabbix.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dashboard%20graphs%20v4%20dark%201.png"
-  },
-  {
-   "title": "Ardour",
-   "description": "free Digital Audio Workstation",
-   "year": "2005",
-   "url": "https://ardour.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ardour%206.7%20Recorder%20Editor%20Mixer.png"
-  },
-  {
-   "title": "OpenRC",
-   "description": "dependency-based init system for UNIX-like operating systems",
-   "year": "2007",
-   "url": "https://wiki.gentoo.org/wiki/OpenRC",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Openrc-artix.png"
-  },
-  {
-   "title": "Apache Harmony",
-   "description": "Java programming language Open source implementation",
-   "year": "2010",
-   "url": "http://harmony.apache.org/",
-   "image": ""
-  },
-  {
-   "title": "Odoo",
-   "description": "open source ERP, CRM and CMS",
-   "year": "2004",
-   "url": "https://www.odoo.com",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odoo%2014.png"
-  },
-  {
-   "title": "Gambas",
-   "description": "integrated development environment for the BASIC dialect Gambas",
-   "year": "1999",
-   "url": "https://gambaswiki.org/website",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gambas-3.3.4-Xfce-Fedora16.png"
-  },
-  {
-   "title": "Fluxbox",
-   "description": "open source window manager for the X11 system",
-   "year": "2001",
-   "url": "http://www.fluxbox.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fluxbox.png"
-  },
-  {
-   "title": "Gears",
-   "description": "Google software",
-   "year": "2007",
-   "url": "http://gearsblog.blogspot.com/2011/03/stopping-gears.html",
-   "image": ""
-  },
-  {
-   "title": "BusyBox",
-   "description": "collection of Unix tools in a single executable file",
-   "year": "1999",
-   "url": "https://busybox.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuvakaappaus%20-%202024-03-15%2008-49-28.png"
-  },
-  {
-   "title": "Textpattern",
-   "description": "Open source content management system written in PHP",
-   "year": "2003",
-   "url": "https://textpattern.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Textpattern%20backend%20screen.gif"
-  },
-  {
-   "title": "Spring Framework",
-   "description": "application framework for Java platform",
-   "year": "2002",
-   "url": "https://spring.io/projects/spring-framework",
-   "image": ""
-  },
-  {
-   "title": "Zorin OS",
-   "description": "Ubuntu-based Linux distribution",
-   "year": "2009",
-   "url": "https://zorin.com/os/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zorin%20OS16%20Core.png"
-  },
-  {
-   "title": "Dynamic Kernel Module Support",
-   "description": "software framework for installing and updating Linux kernel modules from source",
-   "year": "2003",
-   "url": "http://linux.dell.com/dkms/",
-   "image": ""
-  },
-  {
-   "title": "Ren'Py",
-   "description": "visual novel engine",
-   "year": "2004",
-   "url": "https://www.renpy.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipe-tan%20visual%20novel%20%28Ren%27Py%29.png"
-  },
-  {
-   "title": "GNU Screen",
-   "description": "terminal multiplexer",
-   "year": "1987",
-   "url": "https://www.gnu.org/software/screen/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Screen.png"
-  },
-  {
-   "title": "GNU Classpath",
-   "description": "Implementation of standard class library of Java",
-   "year": "1998",
-   "url": "https://www.gnu.org/software/classpath/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GC%20SwingDemo.jpg"
-  },
-  {
-   "title": "RStudio",
-   "description": "integrated development environment for the programming language R",
-   "year": "2011",
-   "url": "https://posit.co/products/open-source/rstudio/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rstudio.png"
-  },
-  {
-   "title": "Organic Maps",
-   "description": "free and open-source map navigation app, designed to function without internet connectivity",
-   "year": "2021",
-   "url": "https://organicmaps.app/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Organic-maps-dark.jpg"
-  },
-  {
-   "title": "Next.js",
-   "description": "JavaScript framework to create web applications",
-   "year": "2016",
-   "url": "https://nextjs.org",
-   "image": ""
-  },
-  {
-   "title": "GNU gzip",
-   "description": "file compression program",
-   "year": "1992",
-   "url": "https://www.gnu.org/software/gzip/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gzip-screenshot.png"
-  },
-  {
-   "title": "Empathy",
-   "description": "open source instant messaging and VoIP client",
-   "year": "2007",
-   "url": "https://wiki.gnome.org/Attic/Empathy",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Empathy%20programa%20mensajeria%20instantanea.png"
+   "title": "LaTeX",
+   "description": "document markup language",
+   "year": "1980",
+   "url": "https://www.latex-project.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LaTeX%20Output.svg"
   },
   {
    "title": "NetworkManager",
@@ -570,18 +17,116 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NetworkManager.png"
   },
   {
-   "title": "Apache Derby",
-   "description": "relational database management system",
-   "year": "1997",
-   "url": "https://db.apache.org/derby/",
-   "image": ""
+   "title": "JabRef",
+   "description": "reference management software",
+   "year": "2003",
+   "url": "https://www.jabref.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JabRef-5.9.png"
   },
   {
-   "title": "zlib",
-   "description": "lossless compression library",
+   "title": "Compiz",
+   "description": "compositing window manager for the X Window System",
+   "year": "2006",
+   "url": "http://www.compiz.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fedora-Core-6-AIGLX.png"
+  },
+  {
+   "title": "antiX",
+   "description": "Linux distribution",
+   "year": "2013",
+   "url": "https://antixlinux.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AntiXonTatung5213.jpg"
+  },
+  {
+   "title": "Odoo",
+   "description": "open source ERP, CRM and CMS",
+   "year": "2004",
+   "url": "https://www.odoo.com",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odoo%20crm.jpg"
+  },
+  {
+   "title": "Tor Browser",
+   "description": "web browser based on Firefox and Tor",
+   "year": "2008",
+   "url": "https://www.torproject.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20Tor%20browser8%205.jpg"
+  },
+  {
+   "title": "OpenLayers",
+   "description": "JavaScript library for displaying map data in web browsers",
+   "year": "2006",
+   "url": "https://openlayers.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20OpenLayers%206.9.0.png"
+  },
+  {
+   "title": "NDISwrapper",
+   "description": "driver wrapper for Windows devices used on Linux",
+   "year": "2003",
+   "url": "https://ndiswrapper.sourceforge.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ndiswrapper.png"
+  },
+  {
+   "title": "Signal",
+   "description": "privacy-focused encrypted messaging app",
+   "year": "2014",
+   "url": "https://signal.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Signal%20Android%207.28.4%20blue.png"
+  },
+  {
+   "title": "Cytoscape",
+   "description": "open source software platform for visualizing molecular interaction networks and biological pathways",
+   "year": "2002",
+   "url": "http://www.cytoscape.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytoscape%20network%20visualization1.png"
+  },
+  {
+   "title": "Rocq prover",
+   "description": "proof assistant",
+   "year": "1984",
+   "url": "https://rocq-prover.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coq%208.5%20stdlib%20proof.png"
+  },
+  {
+   "title": "Cydia",
+   "description": "package manager for jailbroken iOS",
+   "year": "2008",
+   "url": "https://cydia.saurik.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ScreenshotofCydia.jpg"
+  },
+  {
+   "title": "less",
+   "description": "command line tool to view text files",
+   "year": "1983",
+   "url": "https://www.greenwoodsoftware.com/less/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Less.jpg"
+  },
+  {
+   "title": "Common UNIX Printing System",
+   "description": "standards-based, open source printing system developed",
+   "year": "1999",
+   "url": "https://openprinting.github.io/cups/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenPrinting%20CUPS%20screenshot.webp"
+  },
+  {
+   "title": "AROS Research Operating System",
+   "description": "operating system",
    "year": "1995",
-   "url": "https://zlib.net/",
-   "image": ""
+   "url": "http://www.aros.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Icaros131.jpg"
+  },
+  {
+   "title": "CPython",
+   "description": "Python reference implementation",
+   "year": "1994",
+   "url": "https://www.python.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fibonnacci-Python.png"
+  },
+  {
+   "title": "X.Org Server",
+   "description": "the X.Org Foundation's display server for the X Window System",
+   "year": "2004",
+   "url": "https://x.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xdpyinfo%20screenshot.png"
   },
   {
    "title": "GNU Emacs",
@@ -591,95 +136,60 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Emacs%2026.2%20screenshot.png"
   },
   {
-   "title": "Xubuntu",
-   "description": "Linux distribution based on Ubuntu, utilizing the Xfce desktop environment",
-   "year": "2006",
-   "url": "https://xubuntu.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xubuntu%2024.04%20LTS%20default%20desktop%20-%20English.png"
-  },
-  {
-   "title": "Gretl",
-   "description": "econometrics software",
-   "year": "2000",
-   "url": "http://gretl.sourceforge.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gretl%20screenshot%20ru.png"
-  },
-  {
-   "title": "GrapheneOS",
-   "description": "security and privacy-focused, Android-based mobile operating system",
-   "year": "2014",
-   "url": "https://grapheneos.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GrapheneOS%20home%20screen%20Android%2016%20QPR2.png"
-  },
-  {
-   "title": "Autoconf",
-   "description": "automatic configure script builder",
-   "year": "1991",
-   "url": "https://www.gnu.org/software/autoconf/autoconf.html",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoconf%202.68%20wine.png"
-  },
-  {
-   "title": "BlueGriffon",
-   "description": "Web and EPUB Editor based on the rendering engine of Firefox",
+   "title": "Wubi",
+   "description": "discontinued Ubuntu Linux installer for Windows",
    "year": "2008",
-   "url": "http://www.bluegriffon.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Faenza-bluegriffon.svg"
+   "url": "http://www.ubuntu.com/desktop/get-ubuntu/windows-installer",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wubi%20screenshot.png"
   },
   {
-   "title": "musl",
-   "description": "C standard library implementation",
+   "title": "Bochs",
+   "description": "Portable emulator and PC debugger",
+   "year": "1994",
+   "url": "http://bochs.sourceforge.net",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bochs%202.4.6.png"
+  },
+  {
+   "title": "RStudio",
+   "description": "integrated development environment for the programming language R",
    "year": "2011",
-   "url": "https://musl.libc.org/",
-   "image": ""
+   "url": "https://posit.co/products/open-source/rstudio/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rstudio.png"
   },
   {
-   "title": "Anki",
-   "description": "spaced repetition software",
-   "year": "2006",
-   "url": "https://apps.ankiweb.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anki-23.12.12x17%3D.png"
+   "title": "phpMyAdmin",
+   "description": "database administration tool",
+   "year": "1998",
+   "url": "https://www.phpmyadmin.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PhpMyAdmin-main-en.png"
   },
   {
-   "title": "jMonkeyEngine",
-   "description": "open-source Java game engine",
-   "year": "2003",
-   "url": "https://jmonkeyengine.org",
-   "image": ""
+   "title": "POV-Ray",
+   "description": "ray tracing program",
+   "year": "1991",
+   "url": "https://www.povray.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Utah%20teapot.png"
   },
   {
-   "title": "GNU GRUB",
-   "description": "boot loader package",
-   "year": "1995",
-   "url": "https://www.gnu.org/software/grub/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Debian%20Unstable%20GRUB2%20%282015%29.png"
+   "title": "GNOME Files",
+   "description": "file manager for GNOME",
+   "year": "2001",
+   "url": "https://apps.gnome.org/Nautilus/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%20Files%2047.png"
   },
   {
-   "title": "Scratch",
-   "description": "programming language learning environment",
-   "year": "2003",
-   "url": "https://scratch.mit.edu",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scratch%203.0%20editor.png"
+   "title": "Ututo",
+   "description": "Linux distribution",
+   "year": "2000",
+   "url": "https://ututo.ar",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ututo%202012%20screenshot.png"
   },
   {
-   "title": "GNU Guile",
-   "description": "Scheme implementation intended especially for extensions",
-   "year": "1993",
-   "url": "https://www.gnu.org/software/guile/",
-   "image": ""
-  },
-  {
-   "title": "Semantic MediaWiki",
-   "description": "software for creating, managing and sharing structured data in MediaWiki",
-   "year": "2005",
-   "url": "https://www.semantic-mediawiki.org/",
-   "image": ""
-  },
-  {
-   "title": "Basic Linear Algebra Subprograms",
-   "description": "routines for performing common linear algebra operations",
-   "year": "1979",
-   "url": "https://www.netlib.org/blas/",
-   "image": ""
+   "title": "iptables",
+   "description": "Linux firewall software",
+   "year": "1998",
+   "url": "https://www.netfilter.org/projects/iptables/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iptablesfb.png"
   },
   {
    "title": "SpamAssassin",
@@ -689,18 +199,508 @@
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reco%20spam.png"
   },
   {
-   "title": "LaTeX",
-   "description": "document markup language",
-   "year": "1980",
-   "url": "https://www.latex-project.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LaTeX%20Output.svg"
+   "title": "CentOS",
+   "description": "Linux distribution",
+   "year": "2002",
+   "url": "https://centos.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CentOS%20Stream%209%20Workstation%20showing%20GNOME%20Shell%2040.png"
   },
   {
-   "title": "Nmap",
-   "description": "network discovery and security auditing tool",
+   "title": "PostgreSQL",
+   "description": "free and open-source relational database management system",
+   "year": "1996",
+   "url": "https://www.postgresql.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL%20psql%20screenshot.png"
+  },
+  {
+   "title": "Alpine",
+   "description": "email client",
+   "year": "2006",
+   "url": "https://alpineapp.email/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20email%20client.png"
+  },
+  {
+   "title": "Proxmox Virtual Environment",
+   "description": "Linux distribution for server virtualization",
+   "year": "2008",
+   "url": "https://www.proxmox.com/en/proxmox-virtual-environment/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Proxmox-VE-8-0-Cluster-Summary.png"
+  },
+  {
+   "title": "SonarQube",
+   "description": "static code analysis tool for continuous codebase inspection",
+   "year": "2007",
+   "url": "http://www.sonarqube.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SonarQube%20Project%20page.png"
+  },
+  {
+   "title": "SciTE",
+   "description": "free and open text editor",
+   "year": "1999",
+   "url": "https://www.scintilla.org/SciTE.html",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SciTE%20Ruby%20Ubuntu.png"
+  },
+  {
+   "title": "Clam AntiVirus",
+   "description": "antivirus software",
+   "year": "2001",
+   "url": "https://www.clamav.net",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ClamAV%20on%20Linux%20screenshot.webp"
+  },
+  {
+   "title": "Autoconf",
+   "description": "automatic configure script builder",
+   "year": "1991",
+   "url": "https://www.gnu.org/software/autoconf/autoconf.html",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoconf%202.68%20wine.png"
+  },
+  {
+   "title": "GNU nano",
+   "description": "small, user-friendly console text editor",
+   "year": "1999",
+   "url": "https://nano-editor.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20nano-6.4%20screenshot.png"
+  },
+  {
+   "title": "Euro-Office",
+   "description": "office suite based on OnlyOffice",
+   "year": "2026",
+   "url": "https://github.com/Euro-Office",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro-Office.png"
+  },
+  {
+   "title": "GStreamer",
+   "description": "Pipeline-based multimedia framework",
+   "year": "1999",
+   "url": "https://gstreamer.freedesktop.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GStreamer%20example%20pipeline.svg"
+  },
+  {
+   "title": "sway",
+   "description": "Tiling Wayland compositor",
+   "year": "2016",
+   "url": "https://swaywm.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo-sway-window-manager.png"
+  },
+  {
+   "title": "Gephi",
+   "description": "network analysis and visualization software package",
+   "year": "2008",
+   "url": "https://gephi.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gephi%200.9.1%20Network%20Analysis%20and%20Visualization%20Software.png"
+  },
+  {
+   "title": "GNU GRUB",
+   "description": "boot loader package",
+   "year": "1995",
+   "url": "https://www.gnu.org/software/grub/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Debian%20Unstable%20GRUB2%20%282015%29.png"
+  },
+  {
+   "title": "LilyPond",
+   "description": "free score writing software",
    "year": "1997",
-   "url": "https://nmap.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nmap-4.53.png"
+   "url": "https://lilypond.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PL-lilypond-2.10.33-screenshot.png"
+  },
+  {
+   "title": "TortoiseSVN",
+   "description": "Subversion client, implemented as a Microsoft Windows shell extension",
+   "year": "2002",
+   "url": "https://tortoisesvn.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TortoiseSVN.png"
+  },
+  {
+   "title": "TYPO3",
+   "description": "web content management framework",
+   "year": "1998",
+   "url": "https://typo3.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TYPO3%20Backend.png"
+  },
+  {
+   "title": "GEGL",
+   "description": "image processing programming library",
+   "year": "2000",
+   "url": "https://www.gegl.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%201.4%20--%202001%2C%2004.png"
+  },
+  {
+   "title": "Alfresco",
+   "description": "open-source content-management system",
+   "year": "2005",
+   "url": "http://www.alfresco.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Share%20and%20Repository%20Browser%20%28Alfresco%20Community%20Edition%29.jpg"
+  },
+  {
+   "title": "Asahi Linux",
+   "description": "Linux distribution for Apple Silicon based Macintosh computers",
+   "year": "2020",
+   "url": "https://asahilinux.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arch%20Linux%20ARM-Asahi%20Linux%20Desktop%20English%2007-2023.png"
+  },
+  {
+   "title": "SAGA GIS",
+   "description": "map software",
+   "year": "2001",
+   "url": "http://www.saga-gis.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SAGA%20screenshot.jpg"
+  },
+  {
+   "title": "xmonad",
+   "description": "X11 tiling window manager",
+   "year": "2007",
+   "url": "https://xmonad.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xmonad-tall-status-dons.png"
+  },
+  {
+   "title": "Nxt",
+   "description": "cryptocurrency started in November 2013",
+   "year": "2013",
+   "url": "https://www.jelurida.com/nxt",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nxt%20Wallet.jpg"
+  },
+  {
+   "title": "Agda",
+   "description": "dependently typed, purely functional programming language and proof assistant",
+   "year": "2007",
+   "url": "https://wiki.portal.chalmers.se/agda/pmwiki.php",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agda%20proof.jpg"
+  },
+  {
+   "title": "GRASS",
+   "description": "free and open-source geospatial processing engine",
+   "year": "1983",
+   "url": "https://grass.osgeo.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GRASS%206.3.png"
+  },
+  {
+   "title": "Redox",
+   "description": "operating system written in Rust",
+   "year": "2015",
+   "url": "https://www.redox-os.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Redox%20running%20Orbital.png"
+  },
+  {
+   "title": "OSGi",
+   "description": "software framework",
+   "year": "2000",
+   "url": "https://www.osgi.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osgi-system-layering.svg"
+  },
+  {
+   "title": "GNU Compiler for Java",
+   "description": "former GNU Compiler for the Java programming language",
+   "year": "1998",
+   "url": "https://gcc.gnu.org/wiki/GCJ",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gcj.png"
+  },
+  {
+   "title": "GNU Debugger",
+   "description": "source-level debugger",
+   "year": "1986",
+   "url": "https://www.gnu.org/software/gdb",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20gdb%2012.1%20screenshot.png"
+  },
+  {
+   "title": "KGet",
+   "description": "download manager software for KDE and TDE",
+   "year": "2002",
+   "url": "https://apps.kde.org/de/kget/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KGet%202.14.34.png"
+  },
+  {
+   "title": "Tiny C Compiler",
+   "description": "fast, small and free C compiler",
+   "year": "2002",
+   "url": "https://bellard.org/tcc/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiny%20C%20Compiler%200.9.23%20Windows%20help%20en.png"
+  },
+  {
+   "title": "FreeBSD",
+   "description": "free Unix-like operating system",
+   "year": "1993",
+   "url": "https://www.freebsd.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Plasma%205.23%20on%20FreeBSD%2013.0%20screenshot.png"
+  },
+  {
+   "title": "Snap!",
+   "description": "programming language",
+   "year": "2011",
+   "url": "https://snap.berkeley.edu",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snap%20Entwicklungsumgung%20Beispiel.png"
+  },
+  {
+   "title": "GNU Midnight Commander",
+   "description": "a free cross-platform orthodox file manager and a clone of Norton Commander",
+   "year": "1994",
+   "url": "https://midnight-commander.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midnight%20Commander%20ru.png"
+  },
+  {
+   "title": "Links",
+   "description": "web browser",
+   "year": "1999",
+   "url": "http://links.twibright.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Webbrowser%20Links.jpg"
+  },
+  {
+   "title": "Nextcloud",
+   "description": "self-hosted productivity platform which provides private and secure functions for file sharing, collaborative work, and more ; includes the Nextcloud server, client applications for desktop computers, and mobile clients",
+   "year": "2016",
+   "url": "https://nextcloud.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/File-Nextcloud%20File%20Manager%20Screenshot.png"
+  },
+  {
+   "title": "Gentoo Linux",
+   "description": "Linux distribution",
+   "year": "2002",
+   "url": "https://www.gentoo.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo%20Live%20GUI%20USB%20running%20KDE.png"
+  },
+  {
+   "title": "Tezos",
+   "description": "decentralized, open-source blockchain network (and investment) that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts",
+   "year": "2014",
+   "url": "https://tezos.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tezbox%20wallet%20on%20send%20tab.png"
+  },
+  {
+   "title": "OpenCart",
+   "description": "CMS OpenCart - eCommerce platform for creating open source online stores",
+   "year": "2012",
+   "url": "https://www.opencart.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenCart%20Screenshot%2024.4.2015.png"
+  },
+  {
+   "title": "MAPS.ME",
+   "description": "commercial satellite navigation software using OpenStreetMap data",
+   "year": "2011",
+   "url": "https://maps.me/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maps.me%20android%20screenshot%202023-09.jpg"
+  },
+  {
+   "title": "Linux-libre",
+   "description": "version of the Linux kernel without binary blobs",
+   "year": "2008",
+   "url": "https://linux-libre.fsfla.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linux-Libre%203.0.66-1%20Boot.png"
+  },
+  {
+   "title": "Mantis Bug Tracker",
+   "description": "free and open source, web-based bug tracking system",
+   "year": "2000",
+   "url": "https://mantisbt.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MantisBT%202.5.1.png"
+  },
+  {
+   "title": "TrueOS",
+   "description": "Unix-like, desktop-oriented operating system",
+   "year": "2006",
+   "url": "http://www.trueos.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lumina1.0.0-TrueOS.png"
+  },
+  {
+   "title": "Rockbox",
+   "description": "custom firmware for digital media players",
+   "year": "2001",
+   "url": "https://www.rockbox.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sansafuze-wps-Cabbie%202.5%20WPS.png"
+  },
+  {
+   "title": "DC++",
+   "description": "peer-to-peer file-sharing software",
+   "year": "2001",
+   "url": "http://dcplusplus.sourceforge.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Client%20connected.png"
+  },
+  {
+   "title": "Trinity Desktop Environment",
+   "description": "continuation of KDE 3",
+   "year": "2010",
+   "url": "https://www.trinitydesktop.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TDE%20R14.0.10.png"
+  },
+  {
+   "title": "Namecoin",
+   "description": "cryptocurrency based on Bitcoin",
+   "year": "2009",
+   "url": "https://www.namecoin.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Namecoin%20Coin.png"
+  },
+  {
+   "title": "Lichess",
+   "description": "chess online server",
+   "year": "2010",
+   "url": "https://lichess.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lichess%20homepage.png"
+  },
+  {
+   "title": "Gambas",
+   "description": "integrated development environment for the BASIC dialect Gambas",
+   "year": "1999",
+   "url": "https://gambaswiki.org/website",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gambas-3.3.4-Xfce-Fedora16.png"
+  },
+  {
+   "title": "Mega.io",
+   "description": "cloud storage and file hosting service",
+   "year": "2013",
+   "url": "https://mega.io/zh-hant/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MEGA%20Chat%20Screenshot%2008-01-2017%20anonymized.png"
+  },
+  {
+   "title": "Zorin OS",
+   "description": "Ubuntu-based Linux distribution",
+   "year": "2009",
+   "url": "https://zorin.com/os/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zorin%20OS16%20Core.png"
+  },
+  {
+   "title": "Mattermost",
+   "description": "open source messaging software",
+   "year": "2015",
+   "url": "https://mattermost.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mattermost%20UI.png"
+  },
+  {
+   "title": "Org-mode",
+   "description": "Emacs mode for task managing and notetaking",
+   "year": "2003",
+   "url": "https://orgmode.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Org-mode-show-all.png"
+  },
+  {
+   "title": "PDF Split and Merge",
+   "description": "open-source PDF utility software",
+   "year": "2008",
+   "url": "https://pdfsam.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PDFsam%20merge%20module.png"
+  },
+  {
+   "title": "Claws Mail",
+   "description": "GTK-based Email client",
+   "year": "2001",
+   "url": "https://www.claws-mail.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claws-mail%20271-en.png"
+  },
+  {
+   "title": "Sylpheed",
+   "description": "email client",
+   "year": "2000",
+   "url": "https://sylpheed.sraoss.jp/ja/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylpheed%202.4.8-ru.png"
+  },
+  {
+   "title": "Open Dynamics Engine",
+   "description": "physics engine",
+   "year": "2001",
+   "url": "http://www.ode.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ODE%20crash.png"
+  },
+  {
+   "title": "Pleroma",
+   "description": "free and open-source federated social networking service",
+   "year": "2016",
+   "url": "https://pleroma.social",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pleroma-FE%20UI%20screenshot%202020.png"
+  },
+  {
+   "title": "GNU gzip",
+   "description": "file compression program",
+   "year": "1992",
+   "url": "https://www.gnu.org/software/gzip/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gzip-screenshot.png"
+  },
+  {
+   "title": "Fedora Linux",
+   "description": "Linux distribution",
+   "year": "2002",
+   "url": "https://fedoraproject.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fedora%2041%20Workstation.png"
+  },
+  {
+   "title": "World Atlas of Language Structures",
+   "description": "database of language structures",
+   "year": "2008",
+   "url": "http://wals.info",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/APiCS%20languages%20map.png"
+  },
+  {
+   "title": "Weblate",
+   "description": "web-based translation software and associated organization",
+   "year": "2012",
+   "url": "https://weblate.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weblate%20screenshot.png"
+  },
+  {
+   "title": "KDE neon",
+   "description": "Linux distribution with KDE Plasma, based on Ubuntu",
+   "year": "2016",
+   "url": "https://neon.kde.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Neon%205.27%20Desktop%20English.png"
+  },
+  {
+   "title": "Electric",
+   "description": "circuit-design system",
+   "year": "1982",
+   "url": "https://www.staticfreesoft.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Electric%20eda.png"
+  },
+  {
+   "title": "GNU Aspell",
+   "description": "free software spell checker",
+   "year": "1998",
+   "url": "http://aspell.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aspell-ast.png"
+  },
+  {
+   "title": "Rosetta@home",
+   "description": "BOINC based volunteer computing project researching protein folding",
+   "year": "2005",
+   "url": "https://boinc.bakerlab.org/rosetta",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta.gif"
+  },
+  {
+   "title": "Apache Spark",
+   "description": "open-source data analytics cluster computing framework",
+   "year": "2014",
+   "url": "https://spark.apache.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A9ma%20d%C3%A9tail%20outils%20spark.png"
+  },
+  {
+   "title": "Anki",
+   "description": "spaced repetition software",
+   "year": "2006",
+   "url": "https://apps.ankiweb.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anki-23.12.12x17%3D.png"
+  },
+  {
+   "title": "Textpattern",
+   "description": "Open source content management system written in PHP",
+   "year": "2003",
+   "url": "https://textpattern.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Textpattern%20backend%20screen.gif"
+  },
+  {
+   "title": "Mutt",
+   "description": "text-based email client for Unix-like systems",
+   "year": "1995",
+   "url": "http://www.mutt.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutt%20rus.png"
+  },
+  {
+   "title": "Advanced Linux Sound Architecture",
+   "description": "software framework",
+   "year": "1998",
+   "url": "https://www.alsa-project.org/wiki/Main_Page",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alsa%20v1.0.14%20ubuntu7.1%20en.png"
+  },
+  {
+   "title": "Denemo",
+   "description": "graphical music notation editor, front-end to GNU Lilypond",
+   "year": "1999",
+   "url": "http://www.denemo.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Denemo%202.0.14%20Screenshot%20under%20Kubuntu%2017.04.png"
   }
  ]
 }
