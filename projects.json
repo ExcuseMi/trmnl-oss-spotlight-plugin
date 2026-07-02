@@ -1,326 +1,14 @@
 {
- "updated": "2026-06-29",
+ "updated": "2026-07-02",
  "count": 100,
  "projects": [
   {
-   "title": "Firefox Focus",
-   "description": "mobile web browser",
-   "year": "2016",
-   "url": "https://www.mozilla.org/el/firefox/browsers/mobile/focus/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Firefox%20Focus%20102.png",
-   "summary": "Firefox Focus is a free and open-source privacy-focused mobile browser by Mozilla, based on Firefox. It is available for Android and iOS smartphones and tablets. Its predecessor, Focus by Firefox, was released in December 2015 as a tracker-blocking application which worked only in conjunction with the Safari mobile browser on iOS. It was developed into a minimalist web browser in 2016 but retained this background blocking functionality."
-  },
-  {
-   "title": "GNUnet",
-   "description": "secure, decentralized, peer-to-peer networking framework",
-   "year": "2001",
-   "url": "https://gnunet.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnunet-gtk-0.7.0.png",
-   "summary": "GNUnet is a software framework for decentralized, peer-to-peer networking and an official GNU package. The framework offers link encryption, peer discovery, resource allocation, communication over many transports (such as TCP, UDP, HTTP, HTTPS, WLAN and Bluetooth) and various basic peer-to-peer algorithms for routing, multicast and network size estimation. GNUnet's basic network topology is that of a mesh network."
-  },
-  {
-   "title": "PlayOnLinux",
-   "description": "graphical front-end for the Wine software compatibility layer",
-   "year": "2007",
-   "url": "http://www.playonlinux.com",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PlayOnLinux-Screenshot.png",
-   "summary": "PlayOnLinux is a graphical frontend for the Wine software compatibility layer which allows Linux users to install Windows-based video games, Microsoft Office (2000 to 2016), Microsoft Internet Explorer, as well as many other applications such as Apple iTunes and Safari. While initially developed for Linux-based systems, it is also used on macOS and FreeBSD under the names PlayOnMac and PlayOnBSD, respectively."
-  },
-  {
-   "title": "GEGL",
-   "description": "image processing programming library",
-   "year": "2000",
-   "url": "https://www.gegl.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%201.4%20--%202001%2C%2004.png",
-   "summary": "The Generic Graphics Library (GEGL) is a programming library under development for image processing applications. It is mainly developed for GIMP in order to add support for higher bit depth images, and non-destructive editing. It was partially implemented in GIMP 2.6, with more added in 2.8, and is now a central part in 2.10. Many Filters are ready, but also much work in progress. Target is full support of all important filters in roadmap in Version 3.0."
-  },
-  {
-   "title": "ncurses",
-   "description": "programming library for text-based user interfaces",
-   "year": "1993",
-   "url": "https://invisible-island.net/ncurses/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linux-menuconfig.png",
-   "summary": "ncurses (new curses) is a programming library for creating textual user interfaces (TUIs) that work across a wide variety of terminals. It is written in a way that attempts to optimize the commands that are sent to the terminal, to reduce the latency experienced when updating the displayed content. ncurses is a free and open-source software emulation of curses from System V Release 4.0 (SVr4)."
-  },
-  {
-   "title": "PDF Split and Merge",
-   "description": "open-source PDF utility software",
-   "year": "2008",
-   "url": "https://pdfsam.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PDFsam%20merge%20module.png",
-   "summary": "PDFsam Basic or PDF Split and Merge is a free and open-source cross-platform desktop application to split, merge, extract pages, rotate and mix PDF documents. PDFsam uses a freemium model and encourages buying the full version with popups."
-  },
-  {
-   "title": "GNU GRUB",
-   "description": "boot loader package",
-   "year": "1995",
-   "url": "https://www.gnu.org/software/grub/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Debian%20Unstable%20GRUB2%20%282015%29.png",
-   "summary": "GNU GRUB (short for GNU GRand Unified Bootloader, commonly referred to as GRUB) is a boot loader package from the GNU Project. GRUB is the reference implementation of the Free Software Foundation's Multiboot Specification, which provides a user the choice to boot one of multiple operating systems installed on a computer set up for multi-booting or select a specific kernel configuration available on a particular operating system's partitions."
-  },
-  {
-   "title": "Tezos",
-   "description": "decentralized, open-source blockchain network (and investment) that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts",
-   "year": "2014",
-   "url": "https://tezos.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tezbox%20wallet%20on%20send%20tab.png",
-   "summary": "Tezos is an open-source blockchain that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts. The native cryptocurrency for the Tezos blockchain is the tez (ISO 4217: XTZ; sign: ꜩ). The Tezos network achieves consensus using proof-of-stake. Tezos uses an on-chain governance model that enables the protocol to be amended when upgrade proposals receive a favorable vote from the community."
-  },
-  {
-   "title": "IceWM",
-   "description": "The Ice Window Manager",
-   "year": "1997",
-   "url": "https://ice-wm.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IceWM%20NanoBlue%20openSUSE.png",
-   "summary": "IceWM is a stacking window manager for the X Window System, originally written by Marko Maček. It was written from scratch in C++ and is released under the terms of the GNU Lesser General Public License. It is customizable, relatively lightweight in terms of memory and CPU usage, and comes with themes that allow it to imitate the GUI of Windows 95, Windows XP, Windows 7, OS/2, Motif, and other graphical user interfaces."
-  },
-  {
-   "title": "GNU Emacs",
-   "description": "GNU version of the Emacs text editor",
-   "year": "1984",
-   "url": "https://www.gnu.org/software/emacs/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Emacs%2026.2%20screenshot.png",
-   "summary": "GNU Emacs is a text editor and suite of free software tools. Its development began in 1984 by GNU Project founder Richard Stallman, based on the Emacs editor developed for Unix operating systems. GNU Emacs has been a central component of the GNU project and a flagship project of the free software movement."
-  },
-  {
-   "title": "TortoiseSVN",
-   "description": "Subversion client, implemented as a Microsoft Windows shell extension",
-   "year": "2002",
-   "url": "https://tortoisesvn.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TortoiseSVN.png",
-   "summary": "TortoiseSVN is a Subversion client, implemented as a Microsoft Windows shell extension, that helps programmers manage different versions of the source code for their programs. It is free software released under the GNU General Public License. TortoiseSVN won the SourceForge.net 2007 Community Choice Award for Best Tool or Utility for Developers."
-  },
-  {
-   "title": "RasMol",
-   "description": "software for the visualisation of macromolecules",
-   "year": "1992",
-   "url": "http://www.rasmol.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Molecular%20CAD%20Rasmol.png",
-   "summary": "RasMol is a computer program written for molecular graphics visualization intended and used mainly to depict and explore biological macromolecule structures, such as those found in the Protein Data Bank (PDB)."
-  },
-  {
-   "title": "GNU gzip",
-   "description": "file compression program",
-   "year": "1992",
-   "url": "https://www.gnu.org/software/gzip/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gzip-screenshot.png",
-   "summary": "gzip is a file format and a file compression program. The program uses the Deflate algorithm to compress and decompress a single file using the gzip file format. gzip was released in 1992 as a free software replacement for the compress program because its compression algorithm, LZW, was covered by patents from Unisys and IBM, which did not expire until 2003 and 2004."
-  },
-  {
-   "title": "Pi-hole",
-   "description": "ad- and tracker-blocking application",
-   "year": "2015",
-   "url": "https://pi-hole.net",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pi-hole%20Screenshot.png",
-   "summary": "Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network. It is designed for low-power embedded devices with network capability, such as the Raspberry Pi, but can be installed on almost any Linux system."
-  },
-  {
-   "title": "Zorin OS",
-   "description": "Ubuntu-based Linux distribution",
-   "year": "2009",
-   "url": "https://zorin.com/os/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zorin%20OS16%20Core.png",
-   "summary": "Zorin OS is a Linux distribution based on Ubuntu which provides both free and paid versions. It uses a GNOME and Xfce 4 desktop environment by default, although the desktop is heavily customized for users more familiar with Windows and macOS. Zorin OS Pro is a premium paid version offering additional desktop appearance customization options and apps for creative users such as for photo or video editing."
-  },
-  {
-   "title": "Gephi",
-   "description": "network analysis and visualization software package",
-   "year": "2008",
-   "url": "https://gephi.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gephi%200.9.1%20Network%20Analysis%20and%20Visualization%20Software.png",
-   "summary": "Gephi ( GHEF-ee) is an open-source network analysis and visualization software package written in Java on the NetBeans platform."
-  },
-  {
-   "title": "BusyBox",
-   "description": "collection of Unix tools in a single executable file",
-   "year": "1999",
-   "url": "https://busybox.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuvakaappaus%20-%202024-03-15%2008-49-28.png",
-   "summary": "BusyBox is an implementation of many Unix commands in a single executable file. It runs in many POSIX environments including Linux, Android, and FreeBSD, although many of the tools it provides are designed to work with interfaces provided by the Linux kernel. It was specifically created for embedded operating systems with very limited resources."
-  },
-  {
-   "title": "GNU Compiler for Java",
-   "description": "former GNU Compiler for the Java programming language",
-   "year": "1998",
-   "url": "https://gcc.gnu.org/wiki/GCJ",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gcj.png",
-   "summary": "The GNU Compiler for Java (GCJ) is a discontinued free compiler for the Java programming language. It was part of the GNU Compiler Collection. GCJ compiles Java source code to Java virtual machine (JVM) bytecode or to machine code for a number of CPU architectures. It could also compile class files and whole JARs that contain bytecode into machine code."
-  },
-  {
-   "title": "KGet",
-   "description": "download manager software for KDE and TDE",
-   "year": "2002",
-   "url": "https://apps.kde.org/de/kget/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KGet%202.14.34.png",
-   "summary": "Konqueror is a free and open-source web browser and file manager that provides web access and file-viewer functionality for file systems (such as local files, files on a remote FTP server and files in a disk image). It forms a core part of the KDE Software Compilation. Developed by volunteers, Konqueror can run on most Unix-like operating systems. The KDE community licenses and distributes Konqueror under GNU GPL-2.0-or-later."
-  },
-  {
-   "title": "Tiny C Compiler",
-   "description": "fast, small and free C compiler",
-   "year": "2002",
-   "url": "https://bellard.org/tcc/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiny%20C%20Compiler%200.9.23%20Windows%20help%20en.png",
-   "summary": "The Tiny C Compiler, TCC, tCc, or TinyCC is a C compiler targeting x86 (32-bits), x86-64 and ARM initially written by Fabrice Bellard. It is designed to work for slower computers with little disk space (e.g. on rescue disks). Windows operating system support was added in version 0.9.23 (17 June 2005). TCC is distributed under the GNU Lesser General Public License."
-  },
-  {
-   "title": "Fedora Linux",
-   "description": "Linux distribution",
-   "year": "2002",
-   "url": "https://fedoraproject.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fedora%2041%20Workstation.png",
-   "summary": "Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge of open-source technologies. It is now the upstream source for CentOS Stream and Red Hat Enterprise Linux."
-  },
-  {
-   "title": "DJGPP",
-   "description": "implementation of the GNU toolchain for MS-DOS",
-   "year": "1989",
-   "url": "http://www.delorie.com/djgpp/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GCC%20DJGPP%20Windows.png",
-   "summary": "DJ's GNU Programming Platform (DJGPP) is a software development suite for Intel 80386-level and above, IBM PC compatibles which supports DOS operating systems. It is guided by DJ Delorie, who began the project in 1989. It is a port of the GNU Compiler Collection (GCC), and mostly GNU utilities such as Bash, find, tar, ls, GAWK, sed, and ld to DOS Protected Mode Interface (DPMI)."
-  },
-  {
-   "title": "LilyPond",
-   "description": "free score writing software",
-   "year": "1997",
-   "url": "https://lilypond.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fibonacci%20composition.svg",
-   "summary": "LilyPond is a computer program and file format for music engraving. One of LilyPond's major goals is to produce scores that are engraved with traditional layout rules, reflecting the era when scores were engraved by hand. LilyPond is cross-platform, and is available for several common operating systems; released under the terms of the GNU General Public License, LilyPond is free software and part of the GNU Project."
-  },
-  {
-   "title": "Proxmox Virtual Environment",
-   "description": "Linux distribution for server virtualization",
-   "year": "2008",
-   "url": "https://www.proxmox.com/de/proxmox-virtual-environment/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Proxmox-VE-8-0-Cluster-Summary.png",
-   "summary": "Proxmox Virtual Environment (PVE, or simply Proxmox) is a virtualization platform designed for the provisioning of hyper-converged infrastructure. Proxmox allows deployment and management of virtual machines and containers. It is based on Debian GNU/Linux and uses a modified Ubuntu LTS kernel."
-  },
-  {
-   "title": "World Community Grid",
-   "description": "BOINC based volunteer computing project to aid scientific research",
-   "year": "2004",
-   "url": "https://www.worldcommunitygrid.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pandemics.gif",
-   "summary": "World Community Grid (WCG) is an effort to create the world's largest volunteer computing platform to perform scientific research that benefits humanity. Launched on November 16, 2004, with proprietary Grid MP client from United Devices and adding support for Berkeley Open Infrastructure for Network Computing (BOINC) in 2005, World Community Grid eventually discontinued the Grid MP client and consolidated on the BOINC platform in 2008."
-  },
-  {
-   "title": "GNU Classpath",
-   "description": "Implementation of standard class library of Java",
-   "year": "1998",
-   "url": "https://www.gnu.org/software/classpath/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GC%20SwingDemo.jpg",
-   "summary": "GNU Classpath is a free software implementation of the standard class library for the Java programming language. Most classes from J2SE 1.4 and 5.0 are implemented. Classpath can thus be used to run Java-based applications. GNU Classpath is a part of the GNU Project. It was originally developed in parallel with libgcj due to license incompatibilities, but later the two projects merged."
-  },
-  {
-   "title": "OSGi",
-   "description": "software framework",
-   "year": "2000",
-   "url": "https://www.osgi.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osgi-system-layering.svg",
-   "summary": "OSGi is an open specification and open source project under the Eclipse Foundation. It is a continuation of the work done by the OSGi Alliance (formerly known as the Open Services Gateway initiative), which was an open standards organization for software founded in March 1999. The foundation originally specified and maintained the OSGi standard. The alliance transferred its work to the Eclipse Foundation at the end of 2020."
-  },
-  {
-   "title": "WikiBhasha",
-   "description": "multi-lingual content creation application for the online encyclopedia Wikipedia",
-   "year": "2010",
-   "url": "http://www.WikiBhasha.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Template%20Edit%20screen.jpg",
-   "summary": "multi-lingual content creation application for the online encyclopedia Wikipedia"
-  },
-  {
-   "title": "Ark",
-   "description": "archiving tool for the KDE Software Compilation",
-   "year": "1997",
-   "url": "https://utils.kde.org/projects/ark",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ark%20mainwindow.png",
-   "summary": "Ark is a file archiver and compressor developed by KDE and included in the KDE Applications software bundle. It supports various common archive and compression formats including zip, 7z, rar, lha and tar (both uncompressed and compressed with e.g. gzip, bzip2, lzip or xz)."
-  },
-  {
-   "title": "X.Org Server",
-   "description": "the X.Org Foundation's display server for the X Window System",
-   "year": "2004",
-   "url": "https://x.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xdpyinfo%20screenshot.png",
-   "summary": "X.Org Server is the free and open-source implementation of the X Window System (X11) display server stewarded by the X.Org Foundation. Implementations of the client-side X Window System protocol exist in the form of X11 libraries, which serve as helpful APIs for communicating with the X server. Two such major X libraries exist for X11."
-  },
-  {
-   "title": "GNU Aspell",
-   "description": "free software spell checker",
-   "year": "1998",
-   "url": "http://aspell.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aspell-ast.png",
-   "summary": "GNU Aspell, usually called just Aspell, is a free software spell checker designed to replace Ispell. It is the standard spell checker for the GNU operating system. It also compiles for other Unix-like operating systems and Windows. The main program is licensed under the GNU Lesser General Public License (GNU LGPL), the documentation under the GNU Free Documentation License (GNU FDL). Dictionaries for it are available for about 70 languages."
-  },
-  {
-   "title": "Pleroma",
-   "description": "free and open-source federated social networking service",
-   "year": "2016",
-   "url": "https://pleroma.social",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pleroma-FE%20UI%20screenshot%202020.png",
-   "summary": "Pleroma is a free and open-source microblogging social networking service. Unlike popular microblogging services such as Twitter or Weibo, Pleroma can be self-hosted and operated by anyone with a server and a web domain, a combination commonly referred to as an instance."
-  },
-  {
-   "title": "Empathy",
-   "description": "open source instant messaging and VoIP client",
-   "year": "2007",
-   "url": "https://wiki.gnome.org/Attic/Empathy",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Empathy%20programa%20mensajeria%20instantanea.png",
-   "summary": "Empathy is a discontinued instant messaging (IM) and voice over IP (VoIP) client which supports text, voice, video, file transfers, and inter-application communication over various IM communication protocols. Empathy was created by forking the Gossip project started by Michael Hallendal, Richard Hult and later maintained by Martyn Russell. It was forked because there were disagreements amongst contributors about the backend at the time."
-  },
-  {
-   "title": "Open Dynamics Engine",
-   "description": "physics engine",
-   "year": "2001",
-   "url": "http://www.ode.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ODE%20crash.png",
-   "summary": "The Open Dynamics Engine (ODE) is a physics engine written in C/C++. Its two main components are a rigid body dynamics simulation engine and a collision detection engine. It is free software licensed both under the BSD license and the LGPL. ODE was started in 2001 and has been used in many applications and games, such as Assetto Corsa, BloodRayne 2, Call of Juarez, S.T.A.L.K.E.R., Titan Quest, World of Goo, X-Moto, Mad Tracks and OpenSimulator."
-  },
-  {
-   "title": "OpenLayers",
-   "description": "JavaScript library for displaying map data in web browsers",
-   "year": "2006",
-   "url": "https://openlayers.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot%20OpenLayers%206.9.0.png",
-   "summary": "OpenLayers is a JavaScript library for displaying map data in web browsers as slippy maps. It provides an API for building rich web-based geographic applications similar to Google Maps and Bing Maps. It is open-source, provided under the 2-clause BSD License."
-  },
-  {
-   "title": "GNU Chess",
-   "description": "chess-playing program for playing chess against the computer on a terminal or, more commonly, as a chess engine for graphical chess front-ends",
-   "year": "1984",
-   "url": "https://www.gnu.org/software/chess/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnomechess.png",
-   "summary": "GNU Chess is a free software chess engine and command-line interface chessboard. The goal of GNU Chess is to serve as a basis for research, and as such it has been used in numerous contexts. GNU Chess is free software, licensed under the terms of the GNU General Public License version 3 or any later version, and is maintained by collaborating developers."
-  },
-  {
-   "title": "LaTeX",
-   "description": "document markup language",
-   "year": "1980",
-   "url": "https://www.latex-project.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LaTeX%20Output.svg",
-   "summary": "LaTeX ( LAH-tekh or LAY-tekh, to rhyme with \"blech\"), often stylized as LaTeX, is a software system for typesetting documents, based on the TeX typesetting system. LaTeX provides a high-level, descriptive markup language to use TeX more easily: TeX handles the document layout, while LaTeX handles the content side for document processing."
-  },
-  {
-   "title": "Rosegarden",
-   "description": "digital audio workstation program",
-   "year": "1993",
-   "url": "https://www.rosegardenmusic.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosegarden%2010.02.1%20screenshot.png",
-   "summary": "Rosegarden is a free software digital audio workstation program developed for Linux with ALSA, JACK and Qt4. It acts as an audio and MIDI sequencer, scorewriter, and musical composition and editing tool. It is intended to be a free alternative to such applications as Cubase."
-  },
-  {
-   "title": "JabRef",
-   "description": "reference management software",
-   "year": "2003",
-   "url": "https://www.jabref.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JabRef-5.9.png",
-   "summary": "JabRef is an open-source, cross-platform citation and reference management software. It is used to collect, organize and search bibliographic information. JabRef has a target audience of academics and many university libraries have written guides on its usage. It uses BibTeX and BibLaTeX as its native formats and is therefore typically used for LaTeX. The name JabRef stands for Java, Alver, Batada, Reference."
-  },
-  {
-   "title": "Fink",
-   "description": "project to port and package open-source Unix software to macOS",
-   "year": "2000",
-   "url": "http://finkproject.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fink-MacOSX-Terminal.png",
-   "summary": "The Fink project is an effort to port and package open-source Unix programs to macOS. Fink uses dpkg and APT (Debian's package management system), as well as its own frontend program, fink (which is implemented as a set of Perl modules)."
+   "title": "Windows Package Manager",
+   "description": "FOSS package manager for Windows 10",
+   "year": "2019",
+   "url": "https://learn.microsoft.com/en-us/windows/package-manager/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Windows%20Package%20Manager%20v0.1.41331%20Preview%201115x624.png",
+   "summary": "The Windows Package Manager (also known as winget) is a free and open-source package manager designed by Microsoft for Windows 10, Windows 11, and Windows Server 2025 with Desktop Experience. It consists of a command-line utility and a set of services for installing applications. Independent software vendors can use it as a distribution channel for their software packages."
   },
   {
    "title": "Dillo",
@@ -331,28 +19,532 @@
    "summary": "Dillo is a minimalistic web browser particularly intended for older or slower computers and embedded systems. It supports only plain HTML/XHTML (with CSS rendering) and images over HTTP and HTTPS; scripting is ignored entirely. Current versions of Dillo can run on Linux, BSD, macOS, IRIX and Cygwin. Due to its small size, it is a popular choice for lightweight Linux distributions. Dillo is free software, released under the GNU GPL-3.0-or-later."
   },
   {
-   "title": "VirtueMart",
-   "description": "content management system software",
-   "year": "1997",
-   "url": "http://virtuemart.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sk%C3%A4rmdump%20p%C3%A5%20Virtuemarts%20administration.jpg",
-   "summary": "VirtueMart (formerly known as mambo-phpShop) is an open-source e-commerce application designed as an extension of the Mambo or Joomla! content management systems (CMS). VirtueMart is written in PHP and requires the MySQL database environment for storage. It is best suited for low to medium level traffic web-sites."
+   "title": "GNU IceCat",
+   "description": "Firefox derivative recommending only free software",
+   "year": "2005",
+   "url": "https://www.gnu.org/software/icecat/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Icecatdefaultsquantum.png",
+   "summary": "GNU IceCat, formerly known as GNU IceWeasel, is a completely free version of the Mozilla Firefox web browser distributed by the GNU Project. Its official releases were compatible with Linux, Windows, Android and macOS. Currently, official releases of IceCat are being distributed only through GNU Guix. IceCat is released as a part of GNUzilla, GNU's rebranding of a code base that used to be the Mozilla Application Suite."
   },
   {
-   "title": "CentOS",
+   "title": "Fink",
+   "description": "project to port and package open-source Unix software to macOS",
+   "year": "2000",
+   "url": "http://finkproject.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fink-MacOSX-Terminal.png",
+   "summary": "The Fink project is an effort to port and package open-source Unix programs to macOS. Fink uses dpkg and APT (Debian's package management system), as well as its own frontend program, fink (which is implemented as a set of Perl modules)."
+  },
+  {
+   "title": "Sound Juicer",
+   "description": "CD-Ripper",
+   "year": "2006",
+   "url": "https://wiki.gnome.org/Apps/SoundJuicer",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sound%20Juicer%20312%20FR.png",
+   "summary": "Sound Juicer is the official CD ripper program of GNOME. It is based on GTK, GStreamer, and libburnia for reading and writing optical discs. It can extract audio tracks from optical audio discs and convert them into audio files that a personal computer or digital audio player can play. It supports ripping to any audio codec supported by a GStreamer plugin, such as Opus, MP3, Ogg Vorbis, FLAC and uncompressed PCM formats."
+  },
+  {
+   "title": "Open Dynamics Engine",
+   "description": "physics engine",
+   "year": "2001",
+   "url": "http://www.ode.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ODE%20crash.png",
+   "summary": "The Open Dynamics Engine (ODE) is a physics engine written in C/C++. Its two main components are a rigid body dynamics simulation engine and a collision detection engine. It is free software licensed both under the BSD license and the LGPL. ODE was started in 2001 and has been used in many applications and games, such as Assetto Corsa, BloodRayne 2, Call of Juarez, S.T.A.L.K.E.R., Titan Quest, World of Goo, X-Moto, Mad Tracks and OpenSimulator."
+  },
+  {
+   "title": "Simple Desktop Display Manager",
+   "description": "X11 & Wayland display manager",
+   "year": "2013",
+   "url": "https://github.com/sddm/sddm",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simple-desktop-display-manager.jpg",
+   "summary": "Simple Desktop Display Manager (SDDM) is a display manager (a graphical login program) for the X11 and Wayland windowing systems. SDDM was written from scratch in C++11 and supports theming via QML. SDDM is free and open-source software subject to the terms of the GNU General Public License version 2 or later."
+  },
+  {
+   "title": "sway",
+   "description": "Tiling Wayland compositor",
+   "year": "2016",
+   "url": "https://swaywm.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo-sway-window-manager.png",
+   "summary": "Sway is a tiling window manager and Wayland compositor, inspired by i3, and written in C. Sway is designed as a drop-in replacement for i3 using the Wayland display server protocol and wlroots compositor library. Sway works with existing i3 configuration files and supports most of i3's features while providing several new features of its own."
+  },
+  {
+   "title": "Fedora Linux",
    "description": "Linux distribution",
    "year": "2002",
-   "url": "https://centos.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CentOS%20Stream%209%20Workstation%20showing%20GNOME%20Shell%2040.png",
-   "summary": "CentOS (, from Community Enterprise Operating System; also known as CentOS Linux) is a discontinued Linux distribution that provided a free and open-source community-supported computing platform, functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL). In January 2014, CentOS announced the official joining with Red Hat while staying independent from RHEL, under a new CentOS governing board."
+   "url": "https://fedoraproject.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fedora%2041%20Workstation.png",
+   "summary": "Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge of open-source technologies. It is now the upstream source for CentOS Stream and Red Hat Enterprise Linux."
   },
   {
-   "title": "Library and Archives Canada",
-   "description": "national library and archives of Canada",
+   "title": "Electric",
+   "description": "circuit-design system",
+   "year": "1982",
+   "url": "https://www.staticfreesoft.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Electric%20eda.png",
+   "summary": "The Electric VLSI Design System is an EDA tool written in the early 1980s by Steven M. Rubin. Electric is used to construct logic wire schematics and to perform analysis of integrated circuit layout. It can also handle hardware description languages such as VHDL and Verilog. The system has many analysis and synthesis tools, including design rule checking, simulation, routing, Layout vs. Schematic, logical effort, and more."
+  },
+  {
+   "title": "Ettercap",
+   "description": "network traffic analysis and interception software",
+   "year": "2001",
+   "url": "http://ettercap.github.io/ettercap/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ettercap%20ncurses-screenshot.png",
+   "summary": "Ettercap is a free and open source network security tool for man-in-the-middle attacks on a LAN. It can be used for computer network protocol analysis and security auditing. It runs on various Unix-like operating systems including Linux, Mac OS X, BSD and Solaris, and on Microsoft Windows. It is capable of intercepting traffic on a network segment, capturing passwords, and conducting active eavesdropping against a number of common protocols."
+  },
+  {
+   "title": "GNU gzip",
+   "description": "file compression program",
+   "year": "1992",
+   "url": "https://www.gnu.org/software/gzip/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gzip-screenshot.png",
+   "summary": "gzip is a file format and a file compression program. The program uses the Deflate algorithm to compress and decompress a single file using the gzip file format. gzip was released in 1992 as a free software replacement for the compress program because its compression algorithm, LZW, was covered by patents from Unisys and IBM, which did not expire until 2003 and 2004."
+  },
+  {
+   "title": "TrueOS",
+   "description": "Unix-like, desktop-oriented operating system",
+   "year": "2006",
+   "url": "http://www.trueos.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lumina1.0.0-TrueOS.png",
+   "summary": "TrueOS (formerly PC-BSD or PCBSD) is a discontinued Unix-like, server-oriented operating system built upon the most recent releases of FreeBSD-CURRENT. Up to 2018, it aimed to be easy to install by using a graphical installation program, and easy and ready-to-use immediately by providing KDE SC, Lumina, LXDE, MATE, or Xfce as the desktop environment."
+  },
+  {
+   "title": "Asahi Linux",
+   "description": "Linux distribution for Apple Silicon based Macintosh computers",
+   "year": "2020",
+   "url": "https://asahilinux.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arch%20Linux%20ARM-Asahi%20Linux%20Desktop%20English%2007-2023.png",
+   "summary": "Asahi Linux is a project that ports the Linux kernel and related software to Apple Silicon-powered Macs, started by Hector Martin. It does so by reverse-engineering the SoCs, which lack official, publicly available documentation from Apple."
+  },
+  {
+   "title": "Tezos",
+   "description": "decentralized, open-source blockchain network (and investment) that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts",
+   "year": "2014",
+   "url": "https://tezos.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tezbox%20wallet%20on%20send%20tab.png",
+   "summary": "Tezos is an open-source blockchain that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts. The native cryptocurrency for the Tezos blockchain is the tez (ISO 4217: XTZ; sign: ꜩ). The Tezos network achieves consensus using proof-of-stake. Tezos uses an on-chain governance model that enables the protocol to be amended when upgrade proposals receive a favorable vote from the community."
+  },
+  {
+   "title": "CrypTool",
+   "description": "free e-learning software CrypTool illustrating cryptographic and cryptanalytic concepts",
+   "year": "1998",
+   "url": "http://www.cryptool.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ct%201.4.30%20en.png",
+   "summary": "CrypTool is an open-source project that is a free e-learning software for illustrating cryptographic and cryptanalytic concepts."
+  },
+  {
+   "title": "WikiBhasha",
+   "description": "multi-lingual content creation application for the online encyclopedia Wikipedia",
+   "year": "2010",
+   "url": "http://www.WikiBhasha.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Template%20Edit%20screen.jpg",
+   "summary": "multi-lingual content creation application for the online encyclopedia Wikipedia"
+  },
+  {
+   "title": "WildFly",
+   "description": "Java application server software",
+   "year": "2008",
+   "url": "https://wildfly.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfly16%20HAL%20Management%20Console%20Screenshot.png",
+   "summary": "WildFly, formerly known as JBoss AS, or simply JBoss, is an application server written by JBoss, now developed by Red Hat. WildFly is written in Java and implements the Java Platform, Enterprise Edition (Java EE) specification. It runs on multiple platforms. WildFly is free and open-source software, subject to the requirements of the GNU Lesser General Public License (LGPL), version 2.1."
+  },
+  {
+   "title": "Q4OS",
+   "description": "Linux distribution",
+   "year": "2013",
+   "url": "https://q4os.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Q4OS%204.8%20Gemini.png",
+   "summary": "Q4OS is a light-weight Linux distribution based on Debian, targeted as a replacement for operating systems that are no longer supported on outdated hardware. The distribution is known for an addon called XPQ4, which adds themes intended to replicate the look and feel of Windows 2000, XP, 7, 8 and 10."
+  },
+  {
+   "title": "RStudio",
+   "description": "integrated development environment for the programming language R",
+   "year": "2011",
+   "url": "https://posit.co/products/open-source/rstudio/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rstudio.png",
+   "summary": "RStudio IDE (or RStudio) is an integrated development environment for R, a programming language for statistical computing and graphics. It's available in two formats: RStudio Desktop is a regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio using a web browser. The RStudio IDE is a product of Posit PBC (formerly RStudio PBC, formerly RStudio Inc.)."
+  },
+  {
+   "title": "Rosetta@home",
+   "description": "BOINC based volunteer computing project researching protein folding",
+   "year": "2005",
+   "url": "https://boinc.bakerlab.org/rosetta",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta.gif",
+   "summary": "Rosetta@home is a volunteer computing project researching protein structure prediction on the Berkeley Open Infrastructure for Network Computing (BOINC) platform, run by the Baker lab. Rosetta@home aims to predict protein–protein docking and design new proteins with the help of about fifty-five thousand active volunteered computers processing at over 487,946 gigaFLOPS on average as of September 19, 2020."
+  },
+  {
+   "title": "Scratch",
+   "description": "programming language learning environment",
+   "year": "2003",
+   "url": "https://scratch.mit.edu",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scratch%203.0%20editor.png",
+   "summary": "Scratch is a high-level, block-based visual programming language and website aimed primarily at children as an educational tool, with a target audience of ages 5 to 16. Users can create projects on the website using a block-like interface. Scratch was conceived and designed through collaborative National Science Foundation grants awarded to Mitchel Resnick and Yasmin Kafai."
+  },
+  {
+   "title": "LibreOffice Writer",
+   "description": "word processor component of LibreOffice",
+   "year": "2011",
+   "url": "https://www.libreoffice.org/discover/writer/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LibreOffice%207.2.4.1%20Writer%20screenshot.png",
+   "summary": "LibreOffice Writer is the free and open-source word processor and desktop publishing component of the LibreOffice suite and is a fork of OpenOffice.org Writer. Writer is a word processor similar to Microsoft Word and Corel's WordPerfect with many similar features, and file format compatibility. LibreOffice Writer is released under the Mozilla Public License v2.0."
+  },
+  {
+   "title": "FreeCAD",
+   "description": "a free and open-source CAD software (FOSS)",
+   "year": "2002",
+   "url": "https://www.freecad.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FreeCAD%201.0%20Light%20PartDesign%20Pozidriv.png",
+   "summary": "FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering."
+  },
+  {
+   "title": "ncurses",
+   "description": "programming library for text-based user interfaces",
+   "year": "1993",
+   "url": "https://invisible-island.net/ncurses/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linux-menuconfig.png",
+   "summary": "ncurses (new curses) is a programming library for creating textual user interfaces (TUIs) that work across a wide variety of terminals. It is written in a way that attempts to optimize the commands that are sent to the terminal, to reduce the latency experienced when updating the displayed content. ncurses is a free and open-source software emulation of curses from System V Release 4.0 (SVr4)."
+  },
+  {
+   "title": "PCSX2",
+   "description": "video game console emulator",
+   "year": "2002",
+   "url": "https://pcsx2.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PCSX2%202.0.0.png",
+   "summary": "PCSX2 is a free and open-source emulator of the PlayStation 2 for x86 computers. It supports most PlayStation 2 video games with a high level of compatibility and functionality, and also supports a number of improvements over gameplay on a traditional PlayStation 2, such as the ability to use higher resolutions than native, anti-aliasing and texture filtering. It has been released for Windows, Linux, and macOS."
+  },
+  {
+   "title": "KolibriOS",
+   "description": "operating system written completely in assembly",
    "year": "2004",
-   "url": "https://www.canada.ca/fr/bibliotheque-archives.html",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Library%20and%20Archives%20Canada.JPG",
-   "summary": "Library and Archives Canada (LAC; French: Bibliothèque et Archives Canada) is the federal institution tasked with acquiring, preserving, and providing accessibility to the documentary heritage of Canada. The national archive and library is the 16th largest library in the world. The LAC reports to the Parliament of Canada through the Minister of Canadian Identity and Culture."
+   "url": "https://kolibrios.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KolibriOS%20desktop%2C%20summer%202024.png",
+   "summary": "KolibriOS is an open-source operating system for x86 computers, written completely in FASM assembly language. It has been developed since 2004, forked from MenuetOS, and supports i586 CPUs or newer. KolibriOS is small sized and fits on a single 3.5\" floppy disk; despite this, it features a full graphical user interface, preemptive multitasking, networking capabilities, and many pieces of bundled software."
+  },
+  {
+   "title": "GNU Emacs",
+   "description": "GNU version of the Emacs text editor",
+   "year": "1984",
+   "url": "https://www.gnu.org/software/emacs/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Emacs%2026.2%20screenshot.png",
+   "summary": "GNU Emacs is a text editor and suite of free software tools. Its development began in 1984 by GNU Project founder Richard Stallman, based on the Emacs editor developed for Unix operating systems. GNU Emacs has been a central component of the GNU project and a flagship project of the free software movement."
+  },
+  {
+   "title": "FileZilla",
+   "description": "free and cross-platform FTP software",
+   "year": "2001",
+   "url": "https://filezilla-project.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FileZilla.png",
+   "summary": "FileZilla is a free and open-source, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Clients are available for Windows, Linux, and macOS. Both server and client support FTP and FTPS (FTP over SSL/TLS), while the client can in addition connect to SFTP servers. FileZilla's source code is hosted on SourceForge. Professional editions of both the client and server offer additional features."
+  },
+  {
+   "title": "Proxmox Virtual Environment",
+   "description": "Linux distribution for server virtualization",
+   "year": "2008",
+   "url": "https://www.proxmox.com/de/proxmox-virtual-environment/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Proxmox-VE-8-0-Cluster-Summary.png",
+   "summary": "Proxmox Virtual Environment (PVE, or simply Proxmox) is a virtualization platform designed for the provisioning of hyper-converged infrastructure. Proxmox allows deployment and management of virtual machines and containers. It is based on Debian GNU/Linux and uses a modified Ubuntu LTS kernel."
+  },
+  {
+   "title": "Polkit",
+   "description": "component of UNIX systems",
+   "year": "2007",
+   "url": "https://github.com/polkit-org/polkit",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PolicyKit-KDE.png",
+   "summary": "Polkit (formerly PolicyKit) is a component for controlling system-wide privileges in Unix-like operating systems. It provides an organized way for non-privileged processes to communicate with privileged ones, allowing a level of control of centralized system policy. It is developed and maintained by David Zeuthen, a former employee of Red Hat, and hosted by the freedesktop.org project."
+  },
+  {
+   "title": "DragonFly BSD",
+   "description": "operating system",
+   "year": "2004",
+   "url": "https://www.dragonflybsd.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DragonFly%20BSD%206.2.1%20boot%20loader%20screenshot.png",
+   "summary": "DragonFly BSD is a free and open-source Unix-like operating system forked from FreeBSD 4.8. Matthew Dillon, an Amiga developer in the late 1980s and early 1990s, and FreeBSD developer between 1994 and 2003, began working on DragonFly BSD in June 2003 and announced it on the FreeBSD mailing lists on 16 July 2003."
+  },
+  {
+   "title": "POV-Ray",
+   "description": "ray tracing program",
+   "year": "1991",
+   "url": "https://www.povray.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Utah%20teapot.png",
+   "summary": "The Persistence of Vision Ray Tracer, most commonly acronymed as POV-Ray, is a cross-platform ray-tracing program that generates images from a text-based scene description. It was originally based on DKBTrace, written by David Kirk Buck and Aaron A. Collins for Amiga computers. POV-Ray is free and open-source software, with the source code available under the AGPL-3.0-or-later license."
+  },
+  {
+   "title": "LibreOffice Base",
+   "description": "Open source database application",
+   "year": "2011",
+   "url": "https://www.libreoffice.org/discover/base/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LibreOffice%207.2.4.1%20Base%20screenshot.png",
+   "summary": "LibreOffice Base is a free and open-source database development and administration tool for relational database management systems that is part of the LibreOffice suite. LibreOffice Base was built off of a fork of OpenOffice.org and was first released as version 3.4.0.1 on October 4, 2011. Similarly to the other packages in the LibreOffice suite, Base is supported across multiple platforms including Microsoft Windows, macOS, and Linux."
+  },
+  {
+   "title": "Pleroma",
+   "description": "free and open-source federated social networking service",
+   "year": "2016",
+   "url": "https://pleroma.social",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pleroma-FE%20UI%20screenshot%202020.png",
+   "summary": "Pleroma is a free and open-source microblogging social networking service. Unlike popular microblogging services such as Twitter or Weibo, Pleroma can be self-hosted and operated by anyone with a server and a web domain, a combination commonly referred to as an instance."
+  },
+  {
+   "title": "BlueGriffon",
+   "description": "Web and EPUB Editor based on the rendering engine of Firefox",
+   "year": "2008",
+   "url": "http://www.bluegriffon.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Faenza-bluegriffon.svg",
+   "summary": "BlueGriffon was a WYSIWYG content editor for the World Wide Web. It is based on the discontinued Nvu editor, which in turn is based on the Composer component of the Mozilla Application Suite, which was previously known as Netscape Composer, which was bundled with Netscape Gold before it was renamed to Netscape Communicator. Powered by Gecko, the rendering engine of Firefox, it can edit Web pages in conformance to Web Standards."
+  },
+  {
+   "title": "GNU Health",
+   "description": "Health and Hospital Information System",
+   "year": "2008",
+   "url": "https://www.gnuhealth.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Health%20patient%20main%20screen%20spanish.png",
+   "summary": "GNU Health is a free/libre health and hospital information system with strong focus on public health and social medicine. Its functionality includes management of electronic health records and laboratory information management system. It is designed to be multi-platform, supporting Linux distributions and FreeBSD on the server side. It uses PostgreSQL as its database engine. It is written in Python and uses the Tryton framework as one of its components."
+  },
+  {
+   "title": "Texinfo",
+   "description": "documentation system for on-line information and printed output",
+   "year": "1986",
+   "url": "https://www.gnu.org/software/texinfo/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Example%20texinfo.png",
+   "summary": "Texinfo is a typesetting syntax used for generating documentation in both on-line and printed form (creating filetypes as dvi, html, pdf, etc., and a specific hypertext format, Info) with a single source file. It is implemented by a computer program released as free software of the same name, created and made available by the GNU Project from the Free Software Foundation. The main purpose of Texinfo is to provide a way to easily typeset software manuals."
+  },
+  {
+   "title": "BusyBox",
+   "description": "collection of Unix tools in a single executable file",
+   "year": "1999",
+   "url": "https://busybox.net",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuvakaappaus%20-%202024-03-15%2008-49-28.png",
+   "summary": "BusyBox is an implementation of many Unix commands in a single executable file. It runs in many POSIX environments including Linux, Android, and FreeBSD, although many of the tools it provides are designed to work with interfaces provided by the Linux kernel. It was specifically created for embedded operating systems with very limited resources."
+  },
+  {
+   "title": "NetLogo",
+   "description": "programming language",
+   "year": "1999",
+   "url": "http://ccl.northwestern.edu/netlogo/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netlogo-ui.png",
+   "summary": "NetLogo is an open-source programming language and integrated development environment (IDE) for agent-based modeling. It is part of a family of agent-based modeling products, which includes NetLogo Web, NetLogo 3D, NetTango, TurtleUniverse, HubNet, HubNet Web, and BehaviorSpace."
+  },
+  {
+   "title": "Bochs",
+   "description": "Portable emulator and PC debugger",
+   "year": "1994",
+   "url": "http://bochs.sourceforge.net",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bochs%202.4.6.png",
+   "summary": "Bochs (pronounced \"box\") is a portable IA-32 and x86-64 IBM PC compatible emulator and debugger mostly written in C++ and distributed as free software under the GNU Lesser General Public License. It supports emulation of the processor(s) (including protected mode), memory, disks, display, Ethernet, BIOS and common hardware peripherals of PCs."
+  },
+  {
+   "title": "Home Assistant",
+   "description": "home automation software",
+   "year": "2013",
+   "url": "https://www.home-assistant.io/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Home%20Assistant%20Dashboard.png",
+   "summary": "Home Assistant is free and open-source software used to enable centralized home automation. It is a smart home controller that serves both as a smart home hub (sometimes called a \"smart gateway\") and an integration platform designed for interoperability, allowing users to have a single point of control and enable automating different smart home devices from a central location regardless of manufacturer or brand."
+  },
+  {
+   "title": "GStreamer",
+   "description": "Pipeline-based multimedia framework",
+   "year": "1999",
+   "url": "https://gstreamer.freedesktop.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GStreamer%20example%20pipeline.svg",
+   "summary": "GStreamer is a pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows. For instance, GStreamer can be used to build a system that reads files in one format, processes them, and exports them in another. The formats and processes can be changed in a plug and play fashion."
+  },
+  {
+   "title": "SeaMonkey",
+   "description": "internet suite with web browser, mail and news client, HTML editor and IRC client",
+   "year": "2006",
+   "url": "https://www.seamonkey-project.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SeaMonkey%202.53.10%20screenshot.png",
+   "summary": "SeaMonkey is a free and open-source Internet suite. It is the continuation of the former Mozilla Application Suite, based on the same source code, which itself grew out of Netscape Communicator and formed the base of Netscape 6 and Netscape 7. SeaMonkey was created in 2005 after the Mozilla Foundation decided to focus on the standalone projects Firefox and Thunderbird."
+  },
+  {
+   "title": "Firefox for Android",
+   "description": "mobile browser developed by Mozilla Foundation",
+   "year": "2010",
+   "url": "https://www.mozilla.org/firefox/android",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Firefox%20for%20Android%20145.0%20screenshot.webp",
+   "summary": "Firefox for Android is a web browser developed by Mozilla for Android smartphones and tablet computers. As with its desktop version, it uses the Gecko layout engine, and supports features such as synchronization with Firefox Sync, and add-ons. The initial version of Firefox for Android was codenamed Fennec and branded Firefox for mobile; it initially supported Maemo and Android before supporting MeeGo and Firefox OS as well."
+  },
+  {
+   "title": "Psi",
+   "description": "instant messaging client",
+   "year": "2001",
+   "url": "https://psi-im.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Psi-0.11.png",
+   "summary": "Psi is a free instant messaging client for the XMPP protocol which uses the Qt toolkit. It runs on Linux (and other Unix-like operating systems), Windows, macOS and OS/2 (including eComStation and ArcaOS). User interface of program is very flexible in customization. For example, there are \"multi windows\" and \"all in one\" modes, support of different iconsets and themes. Ready-to-install deb and RPM packages are available for many Linux distributions."
+  },
+  {
+   "title": "Gentoo Linux",
+   "description": "Linux distribution",
+   "year": "2002",
+   "url": "https://www.gentoo.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo%20Live%20GUI%20USB%20running%20KDE.png",
+   "summary": "Gentoo Linux (pronounced JEN-too) is a Linux distribution built using the Portage package management system. Unlike a binary software distribution, the source code is compiled locally according to the user's preferences and is often optimized for the specific type of computer. Precompiled binaries are available for some packages, but only for systems using Glibc; no precompiled binaries are available for Musl based systems."
+  },
+  {
+   "title": "GRASS",
+   "description": "free and open-source geospatial processing engine",
+   "year": "1983",
+   "url": "https://grass.osgeo.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GRASS%206.3.png",
+   "summary": "GRASS (originally Geographic Resources Analysis Support System, formerly often referred to as GRASS GIS) is a software package used for geospatial data management and analysis, image processing, producing graphics and maps, spatial and temporal modeling, and visualizing. It can handle raster, topological vector, image processing, and graphic data, and it can be used as a geographic information system (GIS)."
+  },
+  {
+   "title": "Geant4",
+   "description": "software platform",
+   "year": "1998",
+   "url": "https://geant4.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DAGATA-Detektor%20Monte%20Carlo%20Simulation%20with%20Geant4.png",
+   "summary": "Geant4 (for GEometry ANd Tracking) is a platform for \"the simulation of the passage of particles through matter\" using Monte Carlo methods. It is the successor of the GEANT series of software toolkits developed by The Geant4 Collaboration, and the first to use object oriented programming (in C++). Its development, maintenance and user support are taken care by the international Geant4 Collaboration."
+  },
+  {
+   "title": "Namecoin",
+   "description": "cryptocurrency based on Bitcoin",
+   "year": "2009",
+   "url": "https://www.namecoin.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Namecoin%20Coin.png",
+   "summary": "Namecoin (Abbreviation: NMC; sign: N {\\displaystyle \\mathbb {N} } ) is a cryptocurrency originally forked from bitcoin software. It uses proof-of-work algorithm. Like bitcoin, it is limited to 21 million coins. Namecoin can store data within its own blockchain transaction database. The original proposal for Namecoin called for Namecoin to insert data into bitcoin's blockchain directly."
+  },
+  {
+   "title": "XEmacs",
+   "description": "Text editor; fork of GNU Emacs",
+   "year": "1991",
+   "url": "http://www.xemacs.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xemacs.PNG",
+   "summary": "XEmacs is a graphical- and console-based text editor which runs on almost any Unix-like operating system as well as Microsoft Windows. XEmacs is a fork, based on a version of GNU Emacs from the late 1980s. Any user can download, use, and modify XEmacs as free software available under the GNU General Public License version 2 or any later version."
+  },
+  {
+   "title": "Linux-libre",
+   "description": "version of the Linux kernel without binary blobs",
+   "year": "2008",
+   "url": "https://linux-libre.fsfla.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linux-Libre%203.0.66-1%20Boot.png",
+   "summary": "According to the Free Software Foundation Latin America, Linux-libre is a modified version of the Linux kernel that contains no binary blobs, obfuscated code, or code released under proprietary licenses. In the Linux kernel, those types of code are mostly used for proprietary firmware images. While generally redistributable, they do not give the user the freedom to audit, modify, or, consequently, redistribute their modified versions."
+  },
+  {
+   "title": "antiX",
+   "description": "Linux distribution",
+   "year": "2013",
+   "url": "https://antixlinux.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AntiXonTatung5213.jpg",
+   "summary": "antiX () is a Linux distribution, originally based on MEPIS, which itself is based on the Debian Stable distribution. antiX initially replaced the MEPIS KDE desktop environment with the Fluxbox and IceWM window managers, making it suitable for older, less powerful x86-based systems. Unlike Debian, antiX does not use the systemd init system; instead, it provides an ISO image in which Runit is set as the default init system."
+  },
+  {
+   "title": "Social Science Research Network",
+   "description": "open access eLibrary; part of Elsevier",
+   "year": "1994",
+   "url": "https://ssrn.com",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SSRNLogo.jpg",
+   "summary": "SSRN (Social Science Research Network) is an open access research platform that functions as a repository for sharing early-stage research and preprints. It facilitates the rapid dissemination of scholarly research in the social sciences, humanities, life sciences, and health sciences, among others."
+  },
+  {
+   "title": "Firefox Focus",
+   "description": "mobile web browser",
+   "year": "2016",
+   "url": "https://www.mozilla.org/el/firefox/browsers/mobile/focus/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Firefox%20Focus%20102.png",
+   "summary": "Firefox Focus is a free and open-source privacy-focused mobile browser by Mozilla, based on Firefox. It is available for Android and iOS smartphones and tablets. Its predecessor, Focus by Firefox, was released in December 2015 as a tracker-blocking application which worked only in conjunction with the Safari mobile browser on iOS. It was developed into a minimalist web browser in 2016 but retained this background blocking functionality."
+  },
+  {
+   "title": "IceWM",
+   "description": "The Ice Window Manager",
+   "year": "1997",
+   "url": "https://ice-wm.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IceWM%20NanoBlue%20openSUSE.png",
+   "summary": "IceWM is a stacking window manager for the X Window System, originally written by Marko Maček. It was written from scratch in C++ and is released under the terms of the GNU Lesser General Public License. It is customizable, relatively lightweight in terms of memory and CPU usage, and comes with themes that allow it to imitate the GUI of Windows 95, Windows XP, Windows 7, OS/2, Motif, and other graphical user interfaces."
+  },
+  {
+   "title": "Rocky Linux",
+   "description": "Linux distribution based on Red Hat Enterprise Linux",
+   "year": "2021",
+   "url": "https://rockylinux.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Linux%209%20Workstation%20showing%20GNOME%20Shell%2040.png",
+   "summary": "Rocky Linux is a free and open source Linux distribution developed by Rocky Enterprise Software Foundation, which is a privately owned benefit corporation that describes itself as a \"self-imposed not-for-profit\". It is intended to be a downstream, complete binary-compatible release using the Red Hat Enterprise Linux (RHEL) operating system source code. The project's aim is to provide a community-supported, production-grade enterprise operating system."
+  },
+  {
+   "title": "Apache JMeter",
+   "description": "free performance testing software",
+   "year": "1998",
+   "url": "https://jmeter.apache.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ApacheJMeter-5.0-screenshot.png",
+   "summary": "Apache JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications. JMeter can be used as a unit-test tool for JDBC database connections, FTP, LDAP, web services, JMS, HTTP, generic TCP connections and OS-native processes."
+  },
+  {
+   "title": "0 A.D.",
+   "description": "free and open-source real-time strategy video game",
+   "year": "2001",
+   "url": "https://play0ad.com",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Seleukiden-Stadt%20Ken%20Wood%2023.png",
+   "summary": "0 A.D. is a real-time strategy video game under development by Wildfire Games. It is a historical war and economy game focusing on the years between 500 BC and 1 BC, with the years between 1 AD and 500 AD planned to be developed in the future. The game is cross-platform, playable on Windows, macOS, Linux, FreeBSD, and OpenBSD."
+  },
+  {
+   "title": "Nxt",
+   "description": "cryptocurrency started in November 2013",
+   "year": "2013",
+   "url": "https://www.jelurida.com/nxt",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nxt%20Wallet.jpg",
+   "summary": "NXT is an open source cryptocurrency and payment network launched in 2013 by anonymous software developer BCNext. It uses proof-of-stake to reach consensus for transactions—as such, there is a static money supply. Unlike Bitcoin, there is no mining."
+  },
+  {
+   "title": "Zorin OS",
+   "description": "Ubuntu-based Linux distribution",
+   "year": "2009",
+   "url": "https://zorin.com/os/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zorin%20OS16%20Core.png",
+   "summary": "Zorin OS is a Linux distribution based on Ubuntu which provides both free and paid versions. It uses a GNOME and Xfce 4 desktop environment by default, although the desktop is heavily customized for users more familiar with Windows, Chrome OS and macOS. Zorin OS Pro is a premium paid version offering additional desktop appearance customization options and apps for creative users such as for photo or video editing."
+  },
+  {
+   "title": "JabRef",
+   "description": "reference management software",
+   "year": "2003",
+   "url": "https://www.jabref.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JabRef-5.9.png",
+   "summary": "JabRef is an open-source, cross-platform citation and reference management software. It is used to collect, organize and search bibliographic information. JabRef has a target audience of academics and many university libraries have written guides on its usage. It uses BibTeX and BibLaTeX as its native formats and is therefore typically used for LaTeX. The name JabRef stands for Java, Alver, Batada, Reference."
+  },
+  {
+   "title": "GEGL",
+   "description": "image processing programming library",
+   "year": "2000",
+   "url": "https://www.gegl.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%201.4%20--%202001%2C%2004.png",
+   "summary": "The Generic Graphics Library (GEGL) is a programming library under development for image processing applications. It is mainly developed for GIMP in order to add support for higher bit depth images, and non-destructive editing. It was partially implemented in GIMP 2.6, with more added in 2.8, and is now a central part in 2.10. Many Filters are ready, but also much work in progress. Target is full support of all important filters in roadmap in Version 3.0."
+  },
+  {
+   "title": "Gephi",
+   "description": "network analysis and visualization software package",
+   "year": "2008",
+   "url": "https://gephi.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gephi%200.9.1%20Network%20Analysis%20and%20Visualization%20Software.png",
+   "summary": "Gephi ( GHEF-ee) is an open-source network analysis and visualization software package written in Java on the NetBeans platform."
+  },
+  {
+   "title": "NumPy",
+   "description": "numerical programming package for the Python programming language",
+   "year": "1995",
+   "url": "https://numpy.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Numpy%20example.png",
+   "summary": "NumPy (pronounced NUM-py) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. The predecessor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers."
+  },
+  {
+   "title": "Krusader",
+   "description": "dual-pane file manager",
+   "year": "2000",
+   "url": "https://krusader.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Krusader%202.7.2%20screenshot.png",
+   "summary": "Krusader is an advanced orthodox file manager for KDE and other desktops in the Unix world. It is similar to the console-based GNU Midnight Commander, GNOME Commander for the GNOME desktop environment, or Total Commander for Windows, all of which can trace their paradigmatic features to the original Norton Commander for MS-DOS."
+  },
+  {
+   "title": "Mutt",
+   "description": "text-based email client for Unix-like systems",
+   "year": "1995",
+   "url": "http://www.mutt.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutt%20rus.png",
+   "summary": "Mutt is a text-based email client for Unix-like systems. It was originally written by Michael Elkins in 1995 and released under the GNU General Public License version 2 or any later version. The Mutt slogan is \"All mail clients suck. This one just sucks less.\""
+  },
+  {
+   "title": "PostgreSQL",
+   "description": "free and open-source relational database management system",
+   "year": "1996",
+   "url": "https://www.postgresql.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL%20psql%20screenshot.png",
+   "summary": "PostgreSQL ( POHST-gres-kew-EL), also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. PostgreSQL features transactions with atomicity, consistency, isolation, durability (ACID) properties, automatically updatable views, materialized views, triggers, foreign keys, and stored procedures."
   },
   {
    "title": "Gretl",
@@ -361,6 +553,182 @@
    "url": "http://gretl.sourceforge.net/",
    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gretl%20screenshot%20ru.png",
    "summary": "gretl is computer software, an open-source statistical package, mainly for econometrics. The name is an acronym for Gnu Regression, Econometrics and Time-series Library. It has both a graphical user interface (GUI) and a command-line interface. It is written in C, uses GTK+ as widget toolkit for creating its GUI, and calls gnuplot for generating graphs."
+  },
+  {
+   "title": "Apache Ant",
+   "description": "software tool for automating software build processes",
+   "year": "2000",
+   "url": "https://ant.apache.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xml.gif",
+   "summary": "Apache Ant is a software tool for automating software build processes for Java applications which originated from the Apache Tomcat project in early 2000 as a replacement for the Make build tool of Unix. It is similar to Make, but is implemented using the Java language and requires the Java platform. Unlike Make, which uses the Makefile format, Ant uses XML to describe the code build process and its dependencies."
+  },
+  {
+   "title": "Linux Mint",
+   "description": "Ubuntu/Debian-based Linux distribution",
+   "year": "2006",
+   "url": "https://www.linuxmint.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LinuxMint22-Wilma-English.png",
+   "summary": "Linux Mint is a community-developed Linux distribution based on Ubuntu. First released in 2006, Linux Mint is often noted for its ease of use, out-of-the-box functionality, and appeal to desktop users. It comes bundled with a selection of free and open-source software. The default desktop environment is Cinnamon, developed by the Linux Mint team, with MATE and Xfce available as alternatives."
+  },
+  {
+   "title": "Lichess",
+   "description": "chess online server",
+   "year": "2010",
+   "url": "https://lichess.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lichess%20homepage.png",
+   "summary": "Lichess (, LEE-ches) is an internet chess server that is free and open-source, run by a non-profit organization of the same name. Users of the site may play anonymously or register an account to play games to earn a rating on Lichess. Lichess is ad-free and all the features are available for free, as the site is funded by donations from patrons, who receive a special badge as thanks for their support."
+  },
+  {
+   "title": "GNU Privacy Guard",
+   "description": "complete implementation of the OpenPGP and S/MIME standards",
+   "year": "1997",
+   "url": "https://gnupg.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GPG%20keys%20generation.png",
+   "summary": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's cryptographic software suite PGP. The software is compliant with the now obsoleted RFC 4880, the IETF standards-track specification of OpenPGP. Modern versions of PGP are interoperable with GnuPG and other OpenPGP v4-compliant systems."
+  },
+  {
+   "title": "GNU nano",
+   "description": "small, user-friendly console text editor",
+   "year": "1999",
+   "url": "https://nano-editor.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20nano-6.4%20screenshot.png",
+   "summary": "GNU nano is a text editor for Unix-like computing systems or operating environments using a command line interface. It emulates the Pico text editor, part of the Pine email client, and also provides additional functionality. Unlike Pico, nano is licensed under the GNU General Public License (GPL). Released as free software by Chris Allegretta in 1999, nano became part of the GNU Project in 2001."
+  },
+  {
+   "title": "R",
+   "description": "programming language for statistical analysis",
+   "year": "1993",
+   "url": "https://www.r-project.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R%20Terminal.png",
+   "summary": "R is a programming language for statistical computing and data visualization. It has been widely adopted in the fields of data mining, bioinformatics, data analysis, and data science. The core R language is extended by a large number of software packages, which contain reusable code, documentation, and sample data."
+  },
+  {
+   "title": "ROOT",
+   "description": "data analysis software",
+   "year": "1995",
+   "url": "https://root.cern",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CMS%20ROOT%20plot.png",
+   "summary": "ROOT is an object-oriented computer program and library developed by CERN. It was originally designed for particle physics data analysis and contains several features specific to the field, but it is also used in other applications such as astronomy and data mining. The latest minor release is 6.34, as of 2025-04-08."
+  },
+  {
+   "title": "dpkg",
+   "description": "medium-level package manager for Debian",
+   "year": "1994",
+   "url": "https://www.dpkg.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot-dpkg-reconfigure-locales-default-debian-etch-el.png",
+   "summary": "dpkg is the software at the base of the package management system in the free operating system Debian and its many derivatives. dpkg is used to install, remove, and provide information about .deb packages. dpkg (Debian Package) itself is a low-level tool. Advanced Package Tool (APT), a higher-level tool, is more commonly used than dpkg as it can fetch packages from remote locations and deal with complex package relations, such as dependency resolution."
+  },
+  {
+   "title": "Gnash",
+   "description": "free and open-source SWF (Flash) player (GNU Project)",
+   "year": "2005",
+   "url": "https://gnu.org/software/gnash",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnash-0.8.0.png",
+   "summary": "Gnash is a media player for playing Adobe Flash (SWF) files. Gnash is available both as a standalone player for desktop computers and embedded devices, as well as a plugin for the browsers still supporting NPAPI. It is part of the GNU Project and is a free and open-source alternative to Adobe Flash Player. It was developed from the gameswf project. Gnash was first announced in late 2005 by software developer John Gilmore."
+  },
+  {
+   "title": "Nextcloud",
+   "description": "self-hosted productivity platform which provides private and secure functions for file sharing, collaborative work, and more ; includes the Nextcloud server, client applications for desktop computers, and mobile clients",
+   "year": "2016",
+   "url": "https://nextcloud.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/File-Nextcloud%20File%20Manager%20Screenshot.png",
+   "summary": "Nextcloud is a modular workspace platform designed to provide teams and businesses with a comprehensive environment for digital collaboration. Beyond central data management, it integrates office suites like Collabora Online and EuroOffice for seamless, cooperative workflows. The platform features built-in tools for chat, videoconferencing, and a privacy-focused AI assistant capable of running entirely on local LLMs."
+  },
+  {
+   "title": "jEdit",
+   "description": "text editor",
+   "year": "1998",
+   "url": "https://www.jedit.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JEdit%204.2%20showing%20en%20jEdit%20page%20source.png",
+   "summary": "jEdit is a free software text editor available under GPL-2.0-or-later. It is written in Java and runs on any operating system with Java support, including BSD, Linux, macOS and Windows."
+  },
+  {
+   "title": "Snap!",
+   "description": "programming language",
+   "year": "2011",
+   "url": "https://snap.berkeley.edu",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snap%20Entwicklungsumgung%20Beispiel.png",
+   "summary": "Snap! (formerly Build Your Own Blocks) is a free block-based educational graphical programming language and online community. Snap allows students to explore, create, and remix interactive animations, games, stories, and more, while learning about mathematical and computational ideas. While inspired by Scratch, Snap! has many advanced features. The Snap!"
+  },
+  {
+   "title": "I2P",
+   "description": "free and open source project building an anonymous network",
+   "year": "2003",
+   "url": "https://i2p.net/en/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/I2PAndroid-console-0.9.20.png",
+   "summary": "The Invisible Internet Project (I2P) is an anonymous network layer (implemented as a mix network) that allows for censorship-resistant, peer-to-peer communication. Anonymous connections are achieved by encrypting the user's traffic (by using end-to-end encryption), and sending it through a volunteer-run network of roughly 55,000 computers distributed around the world."
+  },
+  {
+   "title": "FreeBASIC",
+   "description": "compiled programming language",
+   "year": "2004",
+   "url": "https://www.freebasic.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FreeBasic%20help.png",
+   "summary": "FreeBASIC is a free and open source multiplatform compiler and programming language based on BASIC licensed under the GNU GPL for Microsoft Windows, protected-mode MS-DOS (DOS extender), Linux, FreeBSD and Xbox. The Xbox version is no longer maintained. According to its official website, FreeBASIC provides syntax compatibility with programs originally written in Microsoft QuickBASIC (QB)."
+  },
+  {
+   "title": "World Community Grid",
+   "description": "BOINC based volunteer computing project to aid scientific research",
+   "year": "2004",
+   "url": "https://www.worldcommunitygrid.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pandemics.gif",
+   "summary": "World Community Grid (WCG) is an effort to create the world's largest volunteer computing platform to perform scientific research that benefits humanity. Launched on November 16, 2004, with proprietary Grid MP client from United Devices and adding support for Berkeley Open Infrastructure for Network Computing (BOINC) in 2005, World Community Grid eventually discontinued the Grid MP client and consolidated on the BOINC platform in 2008."
+  },
+  {
+   "title": "Ututo",
+   "description": "Linux distribution",
+   "year": "2000",
+   "url": "http://ututo.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ututo%202012%20screenshot.png",
+   "summary": "Ututo was a Linux distribution consisting entirely of free software. The distribution is named for a variety of gecko found in northern Argentina. Ututo was the first fully free Linux-based system recognized by the GNU Project. The founder of the GNU Project, Richard Stallman, formerly endorsed the distribution nearly exclusively, and used it on his personal computer, before he switched to gNewSense, and later Trisquel."
+  },
+  {
+   "title": "Sylpheed",
+   "description": "email client",
+   "year": "2000",
+   "url": "https://sylpheed.sraoss.jp/en/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylpheed%202.4.8-ru.png",
+   "summary": "Sylpheed is an open-source e-mail client and news client licensed under GNU GPL-2.0-or-later with the library part LibSylph under GNU LGPL-2.1-or-later. It provides easy configuration and an abundance of features. It stores mail in the MH Message Handling System. Sylpheed runs on Unix-like systems such as Linux or BSD, and it is also usable on Windows. It uses GTK+. In 2005, Sylpheed was forked to create Sylpheed-Claws, now known as Claws Mail."
+  },
+  {
+   "title": "GNUnet",
+   "description": "secure, decentralized, peer-to-peer networking framework",
+   "year": "2001",
+   "url": "https://gnunet.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnunet-gtk-0.7.0.png",
+   "summary": "GNUnet is a software framework for decentralized, peer-to-peer networking and an official GNU package. The framework offers link encryption, peer discovery, resource allocation, communication over many transports (such as TCP, UDP, HTTP, HTTPS, WLAN and Bluetooth) and various basic peer-to-peer algorithms for routing, multicast and network size estimation. GNUnet's basic network topology is that of a mesh network."
+  },
+  {
+   "title": "Common UNIX Printing System",
+   "description": "standards-based, open source printing system developed",
+   "year": "1999",
+   "url": "https://openprinting.github.io/cups/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenPrinting%20CUPS%20screenshot.webp",
+   "summary": "CUPS (formerly an acronym for Common UNIX Printing System) is a modular printing system for Unix-like computer operating systems which allows a computer to act as a print server. A computer running CUPS is a host that can accept print jobs from client computers, process them, and send them to the appropriate printer."
+  },
+  {
+   "title": "Malaria Control Project",
+   "description": "BOINC based volunteer computing project",
+   "year": "2006",
+   "url": "http://www.malariacontrol.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaria.gif",
+   "summary": "malariacontrol.net was a volunteer computing project to simulate the transmission dynamics and health effects of malaria. It was part of the Africa@home project. The project was terminated on 21 June 2016."
+  },
+  {
+   "title": "FireFTP",
+   "description": "computer program",
+   "year": "2004",
+   "url": "http://fireftp.net",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fireftp.png",
+   "summary": "FireFTP is a discontinued free, open-source, cross-platform FTP client for Mozilla Firefox in the form of an add-on. It supports FTP, FTPS, and SFTP. FireFTP was developed by Mime Čuvalo, a Croatian web developer who released it as charityware. It runs on any of the platforms that Firefox supports. FireFTP's layout is similar to that of WS FTP."
+  },
+  {
+   "title": "phpMyAdmin",
+   "description": "database administration tool",
+   "year": "1998",
+   "url": "https://www.phpmyadmin.net/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PhpMyAdmin-main-en.png",
+   "summary": "phpMyAdmin is a free and open source administration tool for MySQL and MariaDB. As a portable web application written primarily in PHP, it has become one of the most popular MySQL administration tools, especially for web hosting services."
   },
   {
    "title": "OpenCart",
@@ -379,340 +747,20 @@
    "summary": "Meld is a visual diff and merge tool, targeted at developers. It allows users to compare two or three files or directories visually, color-coding the different lines. Meld can be used for comparing files, directories, and version controlled repositories. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar, CVS and Subversion."
   },
   {
-   "title": "SpamAssassin",
-   "description": "computer program for e-mail spam filtering",
+   "title": "Rockbox",
+   "description": "custom firmware for digital media players",
    "year": "2001",
-   "url": "https://spamassassin.apache.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reco%20spam.png",
-   "summary": "Apache SpamAssassin is a computer program used for e-mail spam filtering. It uses a variety of spam-detection techniques, including DNS and fuzzy checksum techniques, Bayesian filtering, external programs, blacklists and online databases. It is released under the Apache License 2.0 and is a part of the Apache Foundation since 2004. The program can be integrated with the mail server to automatically filter all mail for a site."
+   "url": "https://www.rockbox.org/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sansafuze-wps-Cabbie%202.5%20WPS.png",
+   "summary": "Rockbox is a free and open-source software replacement for the OEM firmware in various forms of digital audio players (DAPs) with an original kernel. It offers an alternative to the player's operating system, in many cases without removing the original firmware, which provides a plug-in architecture for adding various enhancements and functions. Enhancements include personal digital assistant (PDA) functions, applications, utilities, and games."
   },
   {
-   "title": "Euro-Office",
-   "description": "office suite based on OnlyOffice",
-   "year": "2026",
-   "url": "https://github.com/Euro-Office",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro-Office.png",
-   "summary": "Euro-Office is a FOSS office suite and collaborative software platform, based on software from a more restrictively licensed office suite called OnlyOffice, that provides editors for documents, spreadsheets, presentations, and PDFs. The software includes web-based applications designed for document creation, editing, and collaborative work."
-  },
-  {
-   "title": "sway",
-   "description": "Tiling Wayland compositor",
-   "year": "2016",
-   "url": "https://swaywm.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentoo-sway-window-manager.png",
-   "summary": "Sway is a tiling window manager and Wayland compositor, inspired by i3, and written in C. Sway is designed as a drop-in replacement for i3 using the Wayland display server protocol and wlroots compositor library. Sway works with existing i3 configuration files and supports most of i3's features while providing several new features of its own."
-  },
-  {
-   "title": "phpMyAdmin",
-   "description": "database administration tool",
-   "year": "1998",
-   "url": "https://www.phpmyadmin.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PhpMyAdmin-main-en.png",
-   "summary": "phpMyAdmin is a free and open source administration tool for MySQL and MariaDB. As a portable web application written primarily in PHP, it has become one of the most popular MySQL administration tools, especially for web hosting services."
-  },
-  {
-   "title": "Asymptote",
-   "description": "descriptive vector graphics language",
-   "year": "2004",
-   "url": "https://asymptote.sourceforge.io/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gravity%20well%20plot.svg",
-   "summary": "Asymptote is a descriptive vector graphics language – developed by Andy Hammerlindl, John C. Bowman (University of Alberta), and Tom Prince – which provides a natural coordinate-based framework for technical drawing. Asymptote runs on all major platforms (Unix, Mac OS, Microsoft Windows). It is free software, available under the terms of the GNU Lesser General Public License (LGPL)."
-  },
-  {
-   "title": "Biodiversity Heritage Library",
-   "description": "digital library, online database and large-scale digitization project for biodiversity literature",
-   "year": "2006",
-   "url": "https://www.biodiversitylibrary.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biodiversity%20Heritage%20Library%20Website.png",
-   "summary": "The Biodiversity Heritage Library (BHL) is the world’s largest open-access digital library for biodiversity literature and archives. BHL operates as a worldwide consortium of natural history, botanical, research, and national libraries working together to address this challenge by digitizing the natural history literature held in their collections and making it freely available for open access as part of a global \"biodiversity community\"."
-  },
-  {
-   "title": "Signal",
-   "description": "privacy-focused encrypted messaging app",
-   "year": "2014",
-   "url": "https://signal.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Signal%20Android%207.28.4%20blue.png",
-   "summary": "Signal is an open-source, encrypted messaging service for instant messaging, voice calls, and video calls. The instant messaging function includes sending text, voice notes, images, videos, and other files. Communication may be one-to-one between users or may involve group messaging. The application uses a centralized computing architecture and is cross-platform software."
-  },
-  {
-   "title": "TYPO3",
-   "description": "web content management framework",
-   "year": "1998",
-   "url": "https://typo3.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TYPO3%20Backend.png",
-   "summary": "TYPO3 is a web content management system (CMS) written in the programming language PHP. It is free and open-source software released under the GNU General Public License version 2. TYPO3 is similar to other content management systems such as Drupal, Joomla!, and WordPress. It is used more widely in Europe than in other regions, with a larger market share in German-speaking countries, the Netherlands, and France."
-  },
-  {
-   "title": "PostgreSQL",
-   "description": "free and open-source relational database management system",
-   "year": "1996",
-   "url": "https://www.postgresql.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PostgreSQL%20psql%20screenshot.png",
-   "summary": "PostgreSQL ( POHST-gres-kew-EL), also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. PostgreSQL features transactions with atomicity, consistency, isolation, durability (ACID) properties, automatically updatable views, materialized views, triggers, foreign keys, and stored procedures."
-  },
-  {
-   "title": "Odoo",
-   "description": "open source ERP, CRM and CMS",
-   "year": "2004",
-   "url": "https://www.odoo.com",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odoo%2014.png",
-   "summary": "Odoo is a business management software suite developed in Belgium. It provides applications for customer relationship management, e-commerce, accounting, manufacturing, warehouse management, project management, and inventory management. In October 2022, Odoo S.A. announced changes to its pricing structure, including a single per-user subscription plan for access to its applications."
-  },
-  {
-   "title": "Mattermost",
-   "description": "open source messaging software",
-   "year": "2015",
-   "url": "https://mattermost.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mattermost%20UI.png",
-   "summary": "Mattermost is an open-source, self-hostable online chat service with file sharing, search, and third-party application integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams."
-  },
-  {
-   "title": "Common UNIX Printing System",
-   "description": "standards-based, open source printing system developed",
-   "year": "1999",
-   "url": "https://openprinting.github.io/cups/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenPrinting%20CUPS%20screenshot.webp",
-   "summary": "CUPS (formerly an acronym for Common UNIX Printing System) is a modular printing system for Unix-like computer operating systems which allows a computer to act as a print server. A computer running CUPS is a host that can accept print jobs from client computers, process them, and send them to the appropriate printer."
-  },
-  {
-   "title": "Nmap",
-   "description": "network discovery and security auditing tool",
-   "year": "1997",
-   "url": "https://nmap.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nmap-4.53.png",
-   "summary": "Nmap (Network Mapper) is a network scanner created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich). Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection."
-  },
-  {
-   "title": "Simple Desktop Display Manager",
-   "description": "X11 & Wayland display manager",
+   "title": "iD",
+   "description": "web-based OpenStreetMap editor",
    "year": "2013",
-   "url": "https://github.com/sddm/sddm",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simple-desktop-display-manager.jpg",
-   "summary": "Simple Desktop Display Manager (SDDM) is a display manager (a graphical login program) for the X11 and Wayland windowing systems. SDDM was written from scratch in C++11 and supports theming via QML. SDDM is free and open-source software subject to the terms of the GNU General Public License version 2 or later."
-  },
-  {
-   "title": "Org-mode",
-   "description": "Emacs mode for task managing and notetaking",
-   "year": "2003",
-   "url": "https://orgmode.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Org-mode-show-all.png",
-   "summary": "Org Mode (also: org-mode; ) is a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs and its derivatives, designed for notes, planning, and authoring. The name is used to encompass plain text files (\"org files\") that include simple marks to indicate levels of a hierarchy (such as the outline of an essay, a topic list with subtopics, nested computer code, etc.), and an editor with functions that can read the…"
-  },
-  {
-   "title": "Bochs",
-   "description": "Portable emulator and PC debugger",
-   "year": "1994",
-   "url": "http://bochs.sourceforge.net",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bochs%202.4.6.png",
-   "summary": "Bochs (pronounced \"box\") is a portable IA-32 and x86-64 IBM PC compatible emulator and debugger mostly written in C++ and distributed as free software under the GNU Lesser General Public License. It supports emulation of the processor(s) (including protected mode), memory, disks, display, Ethernet, BIOS and common hardware peripherals of PCs."
-  },
-  {
-   "title": "Apache Ant",
-   "description": "software tool for automating software build processes",
-   "year": "2000",
-   "url": "https://ant.apache.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xml.gif",
-   "summary": "Apache Ant is a software tool for automating software build processes for Java applications which originated from the Apache Tomcat project in early 2000 as a replacement for the Make build tool of Unix. It is similar to Make, but is implemented using the Java language and requires the Java platform. Unlike Make, which uses the Makefile format, Ant uses XML to describe the code build process and its dependencies."
-  },
-  {
-   "title": "GNU Compiler Collection",
-   "description": "optimizing compiler produced by the GNU Project, key component of the GNU tool-chain and standard compiler for most projects related to GNU and the Linux kernel.",
-   "year": "1987",
-   "url": "https://gcc.gnu.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GCC%2011.1.0%20compiling%20Chicken%20screenshot.png",
-   "summary": "The GNU Compiler Collection (GCC; formerly GNU C Compiler) is a collection of compilers from the GNU Project that support various programming languages, hardware architectures, and operating systems. The Free Software Foundation (FSF) distributes GCC as free software under the GNU General Public License (GNU GPL). GCC is a key component of the GNU toolchain which is used for most projects related to GNU and the Linux kernel."
-  },
-  {
-   "title": "ProjectLibre",
-   "description": "free and open-source project management software",
-   "year": "2012",
-   "url": "https://www.projectlibre.com/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ProjectLibre-Screenshot.png",
-   "summary": "ProjectLibre is a project management software company with both a free open-source desktop and a Cloud AI version. ProjectLibre Cloud is a team and Artificial Intelligence solution. ProjectLibre desktop is a free and open-source project management software system intended ultimately as a standalone replacement for Microsoft Project."
-  },
-  {
-   "title": "PulseAudio",
-   "description": "sound server for Unix-like operating systems",
-   "year": "2004",
-   "url": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PulseAudio%20GUI.png",
-   "summary": "PulseAudio is a network-capable sound server program distributed via the freedesktop.org project. It runs mainly on Linux, including Windows Subsystem for Linux on Microsoft Windows and Termux on Android; various BSD distributions such as FreeBSD, OpenBSD, and macOS; as well as Illumos distributions and the Solaris operating system. It serves as a middleware in between applications and hardware and handles raw PCM audio streams."
-  },
-  {
-   "title": "Sound Juicer",
-   "description": "CD-Ripper",
-   "year": "2006",
-   "url": "https://wiki.gnome.org/Apps/SoundJuicer",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sound%20Juicer%20312%20FR.png",
-   "summary": "Sound Juicer is the official CD ripper program of GNOME. It is based on GTK, GStreamer, and libburnia for reading and writing optical discs. It can extract audio tracks from optical audio discs and convert them into audio files that a personal computer or digital audio player can play. It supports ripping to any audio codec supported by a GStreamer plugin, such as Opus, MP3, Ogg Vorbis, FLAC and uncompressed PCM formats."
-  },
-  {
-   "title": "Adblock Plus",
-   "description": "content filtering and ad blocking browser extension",
-   "year": "2006",
-   "url": "https://adblockplus.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adblock%20Plus%20Settings.png",
-   "summary": "Adblock Plus (ABP) is a free and open-source browser extension for content-filtering and ad blocking. It is developed by Eyeo GmbH, a German software company. The extension has been released for Mozilla Firefox (including mobile), Google Chrome, Internet Explorer, Microsoft Edge, Opera, Safari, Yandex Browser, Samsung Internet, and Android."
-  },
-  {
-   "title": "wxPython",
-   "description": "Python binding for the wxWidgets",
-   "year": "1998",
-   "url": "https://wxpython.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Close%20button%20with%20wxpython%20in%20windows%2010.png",
-   "summary": "wxPython is a wrapper for the cross-platform GUI API (often referred to as a \"toolkit\") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter. It is implemented as a Python extension module (native code)."
-  },
-  {
-   "title": "KDE neon",
-   "description": "Linux distribution with KDE Plasma, based on Ubuntu",
-   "year": "2016",
-   "url": "https://neon.kde.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Neon%205.27%20Desktop%20English.png",
-   "summary": "KDE neon is a Linux distribution developed by KDE based on Ubuntu long-term support (LTS) releases, bundled with a set of additional software repositories containing the latest versions of the Plasma 6 desktop environment/framework, Qt 6 toolkit and other compatible KDE software."
-  },
-  {
-   "title": "Mantis Bug Tracker",
-   "description": "free and open source, web-based bug tracking system",
-   "year": "2000",
-   "url": "https://mantisbt.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MantisBT%202.5.1.png",
-   "summary": "Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool. The name Mantis and the logo of the project refer to the insect family Mantidae, known for tracking and feeding on other insects, colloquially referred to as \"bugs\"."
-  },
-  {
-   "title": "FreeCAD",
-   "description": "a free and open-source CAD software (FOSS)",
-   "year": "2002",
-   "url": "https://www.freecad.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FreeCAD%201.0%20Light%20PartDesign%20Pozidriv.png",
-   "summary": "FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering."
-  },
-  {
-   "title": "Matomo",
-   "description": "free software web analytics system",
-   "year": "2007",
-   "url": "https://matomo.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matomo%204.0%20screenshot%20-%20English.png",
-   "summary": "Matomo, formerly Piwik (pronounced ), is a free and open source web analytics application to track online visits to one or more websites and display reports on these visits for analysis."
-  },
-  {
-   "title": "Ututo",
-   "description": "Linux distribution",
-   "year": "2000",
-   "url": "http://ututo.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ututo%202012%20screenshot.png",
-   "summary": "Ututo was a Linux distribution consisting entirely of free software. The distribution is named for a variety of gecko found in northern Argentina. Ututo was the first fully free Linux-based system recognized by the GNU Project. The founder of the GNU Project, Richard Stallman, formerly endorsed the distribution nearly exclusively, and used it on his personal computer, before he switched to gNewSense, and later Trisquel."
-  },
-  {
-   "title": "QuteCom",
-   "description": "Voice over IP client",
-   "year": "2005",
-   "url": "http://trac.qutecom.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WengoPhone%20NG%2020.png",
-   "summary": "QuteCom (previously called WengoPhone) was a free-software SIP-compliant VoIP client developed by the QuteCom (previously OpenWengo) community under the GPL-2.0-or-later license. It allows users to speak to other users of SIP-compliant VoIP software at no cost. It also allows users to call landlines and cell phones, send SMS and make video calls. None of these functions are tied to a particular provider, allowing users to choose among any SIP provider."
-  },
-  {
-   "title": "ADempiere",
-   "description": "ERP system with open source",
-   "year": "2006",
-   "url": "https://www.adempiere.io/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AdempiereUI%20WEB.png",
-   "summary": "ADempiere is an enterprise resource planning (ERP) software package released under a free software license. The verb adempiere in Italian means \"to fulfill a duty\" or \"to accomplish\". The software is licensed under the GNU General Public License."
-  },
-  {
-   "title": "curl",
-   "description": "command line tool and library for transferring data with URL syntax",
-   "year": "1996",
-   "url": "https://curl.se/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CURL%20example%20screenshot.png",
-   "summary": "cURL (pronounced like \"curl\", ) is a free and open-source computer program for transferring data to and from Internet servers. It can download resources identified by URLs from a web server over HTTP and supports a variety of other network protocols, URI schemes, multiple versions of HTTP, and proxying. The project consists of a library (libcurl) and command-line tool (curl), which have been widely ported to different computing platforms."
-  },
-  {
-   "title": "KMyMoney",
-   "description": "personal finance manager by KDE",
-   "year": "2001",
-   "url": "https://kmymoney.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KMyMoney-initial.png",
-   "summary": "KMyMoney is a cross-platform double-entry bookkeeping system for personal finance management built on KDE technologies. Its operation is similar to Microsoft Money and Quicken. It supports different account types, categorization of expenses and incomes, reconciliation of bank accounts and import/export to the “QIF” file format. Through plugins, direct download using the OFX and HBCI formats is also possible."
-  },
-  {
-   "title": "Roundcube",
-   "description": "open-source web-based IMAP email client",
-   "year": "2008",
-   "url": "https://roundcube.net",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roundcube%201.6.0%20screenshot.png",
-   "summary": "Roundcube is a web-based IMAP email client written in PHP. It uses Ajax throughout its interface and is licensed under the GNU GPL version 3 or later, with exceptions for skins and plugins."
-  },
-  {
-   "title": "OpenBSD",
-   "description": "security-focused Unix-like operating system",
-   "year": "1995",
-   "url": "https://www.openbsd.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Openbsd61%20desktop.png",
-   "summary": "OpenBSD is a security-focused, free software, Unix-like operating system based on the Berkeley Software Distribution (BSD). Theo de Raadt created OpenBSD in 1995 by forking NetBSD 1.0. The OpenBSD project emphasizes portability, standardization, correctness, proactive security, and integrated cryptography. The OpenBSD project maintains portable versions of many subsystems as packages for other operating systems."
-  },
-  {
-   "title": "GNU Privacy Guard",
-   "description": "complete implementation of the OpenPGP and S/MIME standards",
-   "year": "1997",
-   "url": "https://gnupg.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GPG%20keys%20generation.png",
-   "summary": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's cryptographic software suite PGP. The software is compliant with the now obsoleted RFC 4880, the IETF standards-track specification of OpenPGP. Modern versions of PGP are interoperable with GnuPG and other OpenPGP v4-compliant systems."
-  },
-  {
-   "title": "Claws Mail",
-   "description": "GTK-based Email client",
-   "year": "2001",
-   "url": "https://www.claws-mail.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claws-mail%20271-en.png",
-   "summary": "Claws Mail is a free and open-source, C/GTK-based e-mail client, which is both lightweight and highly configurable. Claws Mail runs on both Windows and Unix-like systems such as Linux, BSD, and Solaris. It stores mail in the MH mailbox format. Plugins allow to read HTML mail, but there is none to compose HTML messages."
-  },
-  {
-   "title": "Fail2ban",
-   "description": "intrusion prevention software framework that protects computer servers from brute-force attacks",
-   "year": "2004",
-   "url": "https://github.com/fail2ban/fail2ban",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fail2ban%20screenshot.jpg",
-   "summary": "Fail2Ban is an intrusion prevention software framework. Written in the Python programming language, it is designed to prevent brute-force attacks. It is able to run on POSIX systems that have an interface to a packet-control system or firewall installed locally, such as iptables or TCP Wrapper."
-  },
-  {
-   "title": "WeeChat",
-   "description": "IRC client",
-   "year": "2003",
-   "url": "https://weechat.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WeeChat%203.4%20screenshot.png",
-   "summary": "WeeChat (Wee Enhanced Environment for Chat) is a free and open-source Internet Relay Chat client that is designed to be light and fast. It is released under the terms of the GNU GPL-3.0-or-later and has been developed since 2003. WeeChat comes with a default ncurses interface, and it is possible to use other interfaces (e.g. Glowing Bear, a web frontend) through the use of the relay plugin."
-  },
-  {
-   "title": "Wget",
-   "description": "command-line utility for retrieving files using the HTTP or FTP protocols",
-   "year": "1996",
-   "url": "https://www.gnu.org/software/wget",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wget-screenshot.png",
-   "summary": "GNU Wget (or just Wget, formerly Geturl, also written as its package name, wget) is a computer program that retrieves content from web servers. It is part of the GNU Project. Its name derives from \"World Wide Web\" and \"get\", a HTTP request method. It supports downloading via HTTP, HTTPS, and FTP. Its features include recursive download, conversion of links for offline viewing of local HTML, and support for proxies."
-  },
-  {
-   "title": "R",
-   "description": "programming language for statistical analysis",
-   "year": "1993",
-   "url": "https://www.r-project.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R%20Terminal.png",
-   "summary": "R is a programming language for statistical computing and data visualization. It has been widely adopted in the fields of data mining, bioinformatics, data analysis, and data science. The core R language is extended by a large number of software packages, which contain reusable code, documentation, and sample data."
-  },
-  {
-   "title": "GNOME Files",
-   "description": "file manager for GNOME",
-   "year": "2001",
-   "url": "https://apps.gnome.org/Nautilus/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNOME%20Files%2047.png",
-   "summary": "GNOME Files, formerly and internally known as Nautilus, is the official file manager for the GNOME desktop. GNOME Files, same as Nautilus, is a free and open-source software under the terms of the GNU Lesser General Public License."
-  },
-  {
-   "title": "GNU Health",
-   "description": "Health and Hospital Information System",
-   "year": "2008",
-   "url": "https://www.gnuhealth.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20Health%20patient%20main%20screen%20spanish.png",
-   "summary": "GNU Health is a free/libre health and hospital information system with strong focus on public health and social medicine. Its functionality includes management of electronic health records and laboratory information management system. It is designed to be multi-platform, supporting Linux distributions and FreeBSD on the server side. It uses PostgreSQL as its database engine. It is written in Python and uses the Tryton framework as one of its components."
+   "url": "https://ideditor.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Editeur%20iD%20pour%20OSM%2C%20interface%20en%20fran%C3%A7ais%2C%20juillet%202021.png",
+   "summary": "iD is a free software online editor for OpenStreetMap (OSM) geodata created in JavaScript and released in 2013. It is the most popular and the default editor on the main OSM page. iD's features include choosing custom aerial imagery and native support for Mapillary photos."
   },
   {
    "title": "diaspora*",
@@ -723,84 +771,36 @@
    "summary": "Diaspora (stylized as diaspora*) is a nonprofit, user-owned, distributed social network. It consists of a group of independently owned nodes (called pods) which interoperate to form the network. The social network is not owned by any one person or entity, keeping it from being subject to corporate take-overs or advertising."
   },
   {
-   "title": "Xubuntu",
-   "description": "Linux distribution based on Ubuntu, utilizing the Xfce desktop environment",
-   "year": "2006",
-   "url": "https://xubuntu.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xubuntu%2024.04%20LTS%20default%20desktop%20-%20English.png",
-   "summary": "Xubuntu () is a Canonical-recognized, community-maintained derivative of the Ubuntu operating system. The name Xubuntu is a portmanteau of Xfce and Ubuntu, as it uses the Xfce desktop environment, instead of Ubuntu's customized GNOME desktop. Xubuntu seeks to provide \"a light, stable and configurable desktop environment with conservative workflows\" using Xfce components. Xubuntu is intended for both new and experienced Linux users."
-  },
-  {
-   "title": "Gambas",
-   "description": "integrated development environment for the BASIC dialect Gambas",
-   "year": "1999",
-   "url": "https://gambaswiki.org/website",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gambas-3.3.4-Xfce-Fedora16.png",
-   "summary": "Gambas is an object-oriented dialect of the BASIC programming language, and an integrated development environment that accompanies it. Designed to run on Linux and other Unix-like computer operating systems, its name is a recursive acronym for Gambas Almost Means BASIC. Gambas is also the word for prawns in the Spanish, French, and Portuguese languages, from which the project's logos are derived."
-  },
-  {
-   "title": "SonarQube",
-   "description": "static code analysis tool for continuous codebase inspection",
+   "title": "xmonad",
+   "description": "X11 tiling window manager",
    "year": "2007",
-   "url": "https://www.sonarsource.com",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SonarQube%20Project%20page.png",
-   "summary": "SonarQube is an open-core static code analysis platform developed by Sonar. It scans source code to detect issues like bugs, vulnerabilities and code smells on various programming languages and infrastructure technologies. SonarQube offers reports on duplicated code, coding standards, unit tests, code coverage, technical debt, code complexity, comments, bugs, software bill of materials (SBOMs), and security recommendations."
+   "url": "https://xmonad.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xmonad-tall-status-dons.png",
+   "summary": "xmonad is a dynamic window manager (tiling) for the X Window System, noted for being written in the functional programming language Haskell."
   },
   {
-   "title": "Alpine",
-   "description": "email client",
-   "year": "2006",
-   "url": "https://alpineapp.email/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20email%20client.png",
-   "summary": "Alpine is a free software email client developed at the University of Washington. Alpine is a rewrite of the Pine Message System that adds support for Unicode and other features. Alpine is meant to be suitable for both inexperienced email users and the most demanding of power users. Alpine can be learned by exploration and the use of context-sensitive help. The user interface can be customized."
+   "title": "GNU Debugger",
+   "description": "source-level debugger",
+   "year": "1986",
+   "url": "https://www.gnu.org/software/gdb",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GNU%20gdb%2012.1%20screenshot.png",
+   "summary": "The GNU Debugger (GDB) is a portable debugger that runs on many Unix-like systems and works for many programming languages, including Ada, Assembly, C, C++, D, Fortran, Haskell, Go, Objective-C, OpenCL C, Modula-2, Pascal, Rust, and partially others. It detects problems in a program while letting it run and allows users to examine program variables and machine registers."
   },
   {
-   "title": "FreeBSD",
-   "description": "free Unix-like operating system",
-   "year": "1993",
-   "url": "https://www.freebsd.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KDE%20Plasma%205.23%20on%20FreeBSD%2013.0%20screenshot.png",
-   "summary": "FreeBSD is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), a version of Unix developed at the University of California, Berkeley. The project began in 1993 as an outgrowth of 386BSD and released FreeBSD 1.0 later that year. It is developed as a complete operating system, with the kernel, device drivers, userland utilities, build system and documentation maintained in a single source tree."
-  },
-  {
-   "title": "Rocq prover",
-   "description": "proof assistant",
-   "year": "1984",
-   "url": "https://rocq-prover.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coq%208.5%20stdlib%20proof.png",
-   "summary": "The Rocq Prover (formerly named Coq) is an interactive theorem prover first released in 1989. It allows the expression of mathematical assertions, mechanical checking of proofs of these assertions, assists in finding formal proofs using proof automation routines and extraction of a certified program from the constructive proof of its formal specification."
-  },
-  {
-   "title": "NDISwrapper",
-   "description": "driver wrapper for Windows devices used on Linux",
+   "title": "Textpattern",
+   "description": "Open source content management system written in PHP",
    "year": "2003",
-   "url": "https://ndiswrapper.sourceforge.net/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ndiswrapper.png",
-   "summary": "NDISwrapper is a free software driver wrapper that enables the use of Windows XP network device drivers (for devices such as PCI cards, USB modems, and routers) on Linux operating systems. NDISwrapper works by implementing the Windows kernel and NDIS APIs and dynamically linking Windows network drivers to this implementation. As a result, it only works on systems based on the instruction set architectures supported by Windows, namely IA-32 and x86-64."
+   "url": "https://textpattern.com/",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Textpattern%20backend%20screen.gif",
+   "summary": "Textpattern is a free and open-source content management system (CMS) for PHP and MySQL. It was originally developed by Dean Allen and now developed by Team Textpattern. While it is typically listed among weblogging tools, its aim is to be a general-purpose content management system. The current stable version is Textpattern 4.9.1."
   },
   {
-   "title": "Mambo",
-   "description": "Open source content management system",
-   "year": "2000",
-   "url": "http://mambo-foundation.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mambo%20global%20config.jpg",
-   "summary": "Mambo (formerly named Mambo Open Source or MOS) was a free software/open source content management system (CMS) for creating and managing websites through a simple web interface. Its last release was in 2008, by which time all of the developers had left for forks of the project, mainly Joomla and MiaCMS."
-  },
-  {
-   "title": "KolibriOS",
-   "description": "operating system written completely in assembly",
-   "year": "2004",
-   "url": "https://kolibrios.org",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KolibriOS%20desktop%2C%20summer%202024.png",
-   "summary": "KolibriOS is an open-source operating system for x86 computers, written completely in FASM assembly language. It has been developed since 2004, forked from MenuetOS, and supports i586 CPUs or newer. KolibriOS is small sized and fits on a single 3.5\" floppy disk; despite this, it features a full graphical user interface, preemptive multitasking, networking capabilities, and many pieces of bundled software."
-  },
-  {
-   "title": "Psi",
-   "description": "instant messaging client",
-   "year": "2001",
-   "url": "https://psi-im.org/",
-   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Psi-0.11.png",
-   "summary": "Psi is a free instant messaging client for the XMPP protocol which uses the Qt toolkit. It runs on Linux (and other Unix-like operating systems), Windows, macOS and OS/2 (including eComStation and ArcaOS). User interface of program is very flexible in customization. For example, there are \"multi windows\" and \"all in one\" modes, support of different iconsets and themes. Ready-to-install deb and RPM packages are available for many Linux distributions."
+   "title": "Apache Groovy",
+   "description": "programming language",
+   "year": "2003",
+   "url": "https://groovy-lang.org",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XGroovyConsole.gif.pagespeed.ic.MveHrO02zE.png",
+   "summary": "Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform. It is both a static and dynamic language with features similar to those of Python, Ruby, and Smalltalk. It can be used as both a programming language and a scripting language for the Java Platform, is compiled to Java virtual machine (JVM) bytecode, and interoperates seamlessly with other Java code and libraries."
   }
  ]
 }
